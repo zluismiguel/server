@@ -71,3 +71,24 @@
 [20:22:12] [Server thread/INFO]: FreddyTurbina_ issued server command: //set grass_block
 [20:22:16] [Server thread/INFO]: FreddyTurbina_ issued server command: //set grass_block
 [20:22:20] [Server thread/INFO]: FreddyTurbina_ issued server command: //set grass_block
+[20:25:58] [Server thread/INFO]: FreddyTurbina_ issued server command: //set white_concrete
+[20:26:46] [Server thread/INFO]: FreddyTurbina_ issued server command: //set quartz_bricks
+[20:27:33] [Server thread/INFO]: FreddyTurbina_ issued server command: //set quartz_bricks
+[20:27:39] [Server thread/INFO]: FreddyTurbina_ issued server command: //set quartz_bricks
+[20:27:49] [Server thread/INFO]: FreddyTurbina_ issued server command: //set quartz_bricks
+[20:27:57] [Server thread/INFO]: FreddyTurbina_ issued server command: /setworldspawn
+[20:27:57] [Server thread/INFO]: [FreddyTurbina_: Set the world spawn point to 19, 94, -31 [0.0]]
+[20:28:00] [Server thread/INFO]: FreddyTurbina_ issued server command: /kill
+[20:28:00] [Server thread/INFO]: FreddyTurbina_ was killed
+[20:28:00] [Server thread/INFO]: [FreddyTurbina_: Killed FreddyTurbina_]
+[20:30:27] [Server thread/INFO]: FreddyTurbina_ issued server command: /kill
+[20:30:27] [Server thread/INFO]: FreddyTurbina_ was killed
+[20:30:27] [Server thread/INFO]: [FreddyTurbina_: Killed FreddyTurbina_]
+[20:31:51] [Server thread/INFO]: FreddyTurbina_ has made the advancement [Monster Hunter]
+[20:33:49] [Server thread/INFO]: FreddyTurbina_ issued server command: /worldborder center 18.68 -30.50
+[20:33:49] [Server thread/INFO]: [FreddyTurbina_: Set the center of the world border to 18.68, -30.50]
+[20:33:55] [User Authenticator #2/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
+[20:33:55] [Server thread/INFO]: idk_n1gg joined the game
+[20:33:55] [Server thread/INFO]: idk_n1gg[/127.157.217.156:52733] logged in with entity id 2753 at ([world]21.5, 93.0, -22.5)
+[20:34:17] [Server thread/INFO]: FreddyTurbina_ issued server command: /worldborder add 10000
+[20:34:24] [Server thread/INFO]: FreddyTurbina_ issued server command: /worldborder add 1000
