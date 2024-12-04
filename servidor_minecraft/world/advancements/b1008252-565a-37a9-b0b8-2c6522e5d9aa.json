@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-04 21:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-04 21:08:53 +0000"
