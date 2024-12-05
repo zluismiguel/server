@@ -270,3 +270,56 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:16:55] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> yoyi
 [20:16:59] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> guarda respawn
 [20:17:02] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> aca en la cama
+[20:17:59] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> canal
+[20:18:08] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> ya chavales
+[20:18:13] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> me voy
+[20:18:17] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> voy a dejar apagado el server
+[20:18:24] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> pq si no se gasta mucho del codspace
+[20:18:34] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> esotilinuru
+[20:18:38] [Async Chat Thread - #4/INFO]: [Not Secure] <yoyi> CABROS ME VOY A DESCONECTAR POR UN RATO
+[20:18:44] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> ya
+[20:18:46] [Async Chat Thread - #4/INFO]: [Not Secure] <esotilinuru> gg
+[20:18:48] [Server thread/INFO]: esotilinuru lost connection: Disconnected
+[20:18:48] [Server thread/INFO]: esotilinuru left the game
+[20:18:49] [Server thread/INFO]: idk_n1gg lost connection: Disconnected
+[20:18:49] [Server thread/INFO]: idk_n1gg left the game
+[20:18:52] [Server thread/INFO]: FreddyTurbina_ lost connection: Disconnected
+[20:18:52] [Server thread/INFO]: FreddyTurbina_ left the game
+[20:19:03] [Server thread/INFO]: Stopping the server
+[20:19:03] [Server thread/INFO]: Stopping server
+[20:19:03] [Server thread/INFO]: [Images] Disabling Images v2.5.2
+[20:19:03] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[20:19:03] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[20:19:03] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[20:19:03] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[20:19:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[20:19:03] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:19:03] [Server thread/INFO]: [PV] Disabling PV v1.5
+[20:19:03] [Server thread/INFO]: Saving players
+[20:19:03] [Server thread/INFO]: binixmcwtf lost connection: Server closed
+[20:19:03] [Server thread/INFO]: binixmcwtf left the game
+[20:19:03] [Server thread/INFO]: yoyi lost connection: Server closed
+[20:19:03] [Server thread/INFO]: yoyi left the game
+[20:19:03] [Server thread/INFO]: Saving worlds
+[20:19:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:19:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:19:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:19:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:19:06] [Server thread/INFO]: [ChunkHolderManager] Saved 2267 block chunks, 1271 entity chunks, 5 poi chunks in world 'world' in 3.26s
+[20:19:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 35 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[20:19:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:19:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:19:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:19:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:19:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:19:07] [Server thread/INFO]: Flushing Chunk IO
+[20:19:07] [Server thread/INFO]: Closing Thread Pool
+[20:19:07] [Server thread/INFO]: Closing Server
