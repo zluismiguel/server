@@ -1,1 +1,180 @@
-[17:14:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:56:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:56:27] [ServerMain/INFO]: Loaded 1174 recipes
+[19:56:28] [ServerMain/INFO]: Loaded 1271 advancements
+[19:56:28] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:56:28] [Server thread/INFO]: Loading properties
+[19:56:28] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[19:56:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:56:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:56:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:56:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:56:31] [Server thread/INFO]: Default game type: SURVIVAL
+[19:56:31] [Server thread/INFO]: Generating keypair
+[19:56:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:56:32] [Server thread/INFO]: Using epoll channel type
+[19:56:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:56:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:56:32] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ProtectionStones-2.10.5.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WorldGuard]. Please download and install these plugins to run 'ProtectionStones'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-497]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-497]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.4.jar:git-Paper-497]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServer.java:507) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:274) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-497]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:56:32] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:56:37] [Server thread/WARN]: Legacy plugin PV v1.5 does not specify an api-version.
+[19:56:37] [Server thread/INFO]: [PV] Loading server plugin PV v1.5
+[19:56:37] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[19:56:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@252c7df1]
+[19:56:38] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
+[19:56:38] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[19:56:38] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.2
+[19:56:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:56:38] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[19:56:38] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:56:38] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:56:38] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[19:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:56:40] [Server thread/INFO]: Preparing level "world"
+[19:56:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:56:43] [Server thread/INFO]: Time elapsed: 390 ms
+[19:56:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:56:43] [Server thread/INFO]: Time elapsed: 241 ms
+[19:56:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:56:43] [Server thread/INFO]: Time elapsed: 269 ms
+[19:56:43] [Server thread/INFO]: [PV] Enabling PV v1.5*
+[19:56:43] [Server thread/INFO]: PlayerVaults Have Been Enabled
+[19:56:43] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
+[19:56:43] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[19:56:43] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
+[19:56:43] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[19:56:43] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[19:56:43] [Server thread/INFO]: [Images] Enabling Images v2.5.2
+[19:56:44] [Server thread/INFO]: Running delayed init tasks
+[19:56:44] [Server thread/INFO]: Done (16.404s)! For help, type "help"
+[19:56:44] [Server thread/INFO]: Timings Reset
+[19:56:45] [User Authenticator #0/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
+[19:56:46] [Server thread/INFO]: FreddyTurbina_ (/127.16.142.89:50229) lost connection: Disconnected
+[19:56:46] [Craft Scheduler Thread - 2 - Images/INFO]: [Images] Loaded 0 images...
+[19:56:53] [User Authenticator #0/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
+[19:56:54] [Server thread/INFO]: idk_n1gg joined the game
+[19:56:54] [Server thread/INFO]: idk_n1gg[/127.157.217.156:35711] logged in with entity id 141 at ([world]1434.1241371527738, 61.0, -374.08614329980566)
+[19:56:59] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> GG NIGGA
+[19:57:05] [User Authenticator #0/INFO]: UUID of player esotilinuru is 75f1b7e9-8d34-3c93-a63b-3d12fd5336ba
+[19:57:06] [Server thread/INFO]: esotilinuru joined the game
+[19:57:06] [Server thread/INFO]: esotilinuru[/127.164.100.192:38375] logged in with entity id 429 at ([world]1427.1331573564205, 75.0, -385.30000001192093)
+[19:57:08] [User Authenticator #0/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
+[19:57:09] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> gg
+[19:57:09] [Server thread/INFO]: FreddyTurbina_ joined the game
+[19:57:09] [Server thread/INFO]: FreddyTurbina_[/127.16.142.89:41085] logged in with entity id 433 at ([world]1457.0295950340615, 88.0, -382.69999998807907)
+[19:57:16] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> freddy masturbina
+[19:57:19] [User Authenticator #0/INFO]: UUID of player yoyi is c4be6604-6f77-3ce7-9870-653135468d67
+[19:57:20] [Server thread/INFO]: yoyi joined the game
+[19:57:20] [Server thread/INFO]: yoyi[/127.220.101.200:36353] logged in with entity id 443 at ([world]1347.0902094812498, 68.0, -377.82119102960576)
+[19:57:38] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> oe no le avises al bini q se prendio el server
+[19:58:09] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> di q paso algo chungo
+[19:58:18] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> y q no vamos a poder jugar mas
+[19:58:28] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> gg
+[19:58:29] [Async Chat Thread - #0/INFO]: [Not Secure] <yoyi> jejejjej
+[19:58:37] [Async Chat Thread - #0/INFO]: [Not Secure] <esotilinuru> canal ven
+[19:58:42] [User Authenticator #1/INFO]: UUID of player binixmcwtf is 24394478-b911-3b4b-bc01-02b943554edb
+[19:58:43] [Server thread/INFO]: binixmcwtf joined the game
+[19:58:43] [Server thread/INFO]: binixmcwtf[/127.6.181.165:33175] logged in with entity id 694 at ([world]724.6999999880791, 40.0, -187.69999998807907)
+[19:59:05] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu.jpg
+[19:59:12] [Async Chat Thread - #0/INFO]: [Not Secure] <esotilinuru> canal
+[19:59:16] [Async Chat Thread - #0/INFO]: [Not Secure] <esotilinuru> mira
+[19:59:17] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu.jpg
+[19:59:17] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> gg
+[19:59:18] [Craft Scheduler Thread - 17 - Images/INFO]: Map color cache not found, building it in the background
+[19:59:24] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> oe se me perdio mi casa
+[19:59:29] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> JAJAJAJAJA
+[19:59:39] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> hagamos una iglesia
+[19:59:40] [Worker-Main-1/INFO]: Map color cache build successfully
+[19:59:45] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> y lo ponemos adentro
+[19:59:56] [Async Chat Thread - #1/INFO]: [Not Secure] <esotilinuru> cesar sanchez
+[20:00:02] [Async Chat Thread - #1/INFO]: [Not Secure] <esotilinuru> deidad
+[20:00:04] [Async Chat Thread - #1/INFO]: [Not Secure] <binixmcwtf> q pluging pusiste machuca
+[20:00:10] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> oe mira la cancion q se puso
+[20:00:13] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> manda tp
+[20:00:17] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> y luego te mando al 0 0
+[20:00:25] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> amen
+[20:00:25] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> machuca
+[20:00:26] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> es para mostrarte algo bro
+[20:00:36] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> machuca
+[20:00:53] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_
+[20:00:59] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> viste la cancion?
+[20:01:03] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> q pasa binix
+[20:01:05] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> no la vi
+[20:01:10] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> mira
+[20:01:12] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> q pluging pusiste
+[20:01:24] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ven y te muestro
+[20:01:26] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> manda tp
+[20:01:33] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> manda tu
+[20:01:35] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> hermano se me olvido donde estaba mi base
+[20:01:41] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp binixmcwtf
+[20:01:41] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to binixmcwtf]
+[20:01:43] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> mira
+[20:01:50] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ven aca
+[20:02:01] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> te muestro
+[20:02:05] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> q coño haces
+[20:02:06] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> muestrame rapido
+[20:02:09] [Server thread/INFO]: FreddyTurbina_ was blown up by Creeper
+[20:02:10] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> XDD
+[20:02:14] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp binixmcwtf
+[20:02:14] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to binixmcwtf]
+[20:02:23] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> apurate
+[20:02:26] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> q ando en algo
+[20:02:27] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu.jpg
+[20:02:32] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> mira
+[20:02:35] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> sabia
+[20:02:39] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> sabia q era eso XDD
+[20:02:42] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[20:02:44] [Server thread/INFO]: yoyi has made the advancement [A Seedy Place]
+[20:02:55] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> pone la de saez
+[20:02:57] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu2.jpg
+[20:02:57] [Server thread/INFO]: esotilinuru fell from a high place
+[20:02:58] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> como se usaba?
+[20:03:02] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> AAJAJAJ
+[20:03:13] [Server thread/INFO]: esotilinuru issued server command: /tpa freddy
+[20:03:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /tpaccept
+[20:03:20] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> coldchuca
+[20:03:24] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> JAJAJAJJA
+[20:03:26] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ./images
+[20:03:33] [Server thread/INFO]: binixmcwtf issued server command: /images
+[20:03:38] [Server thread/INFO]: binixmcwtf issued server command: /images:customimage
+[20:03:43] [Server thread/INFO]: esotilinuru issued server command: /images
+[20:03:44] [Server thread/INFO]: binixmcwtf issued server command: /msg FreddyTurbina_ dame perms
+[20:03:46] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ./images create
+[20:03:47] [Server thread/INFO]: idk_n1gg issued server command: /msg FreddyTurbina_ despues tepeate al bini y si pone una de nosotros ban
+[20:03:52] [Server thread/INFO]: esotilinuru issued server command: /images create
+[20:03:55] [Server thread/INFO]: binixmcwtf issued server command: /images create
+[20:03:58] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> solo pueden los que tienen op croe
+[20:04:00] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> solo pueden los que tienen op creo
+[20:04:01] [Server thread/INFO]: binixmcwtf issued server command: /images create facu.jpg
+[20:04:07] [Server thread/INFO]: idk_n1gg issued server command: /image create facu.jpg
+[20:04:24] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> valeria
+[20:04:27] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> a
+[20:04:28] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> que otra foto pongo
+[20:04:37] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> la del saez con el chikialonso
+[20:04:40] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> mandamelas al dc
+[20:04:43] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> o la de la radiografia
+[20:04:44] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ylas pongo
+[20:04:47] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> perate
+[20:04:56] [Server thread/INFO]: idk_n1gg issued server command: /image create facu.jpg
+[20:05:12] [Server thread/INFO]: idk_n1gg issued server command: /image
+[20:05:17] [Server thread/INFO]: idk_n1gg issued server command: /image
+[20:05:18] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> machuca
+[20:05:27] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> haz una dungeon
+[20:05:31] [Async Chat Thread - #0/INFO]: [Not Secure] <binixmcwtf> con loot
+[20:05:58] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> despues
+[20:06:03] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_
+[20:06:06] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> veni
+[20:06:09] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create saez_y_valeri.jpg

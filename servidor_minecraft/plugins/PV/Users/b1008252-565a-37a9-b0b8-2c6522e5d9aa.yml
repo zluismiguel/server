@@ -1,0 +1,534 @@
+selector:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 1","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 2","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 3","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 4","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 5","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 6","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 7","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 8","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 9","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 10","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 11","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 12","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 13","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 14","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 15","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 16","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 17","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 18","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 19","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 20","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 21","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 22","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 23","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 24","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 25","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 26","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CHEST
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"text":"","extra":[{"text":"/PV 27","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Left-Click to open the PV","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Right-Click to change the PV Icon","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+    - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+    enchants:
+      DURABILITY: 0
+    blockMaterial: CHEST
+pv1:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: TNT
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CARROT
+  amount: 25
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: WHITE_WOOL
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BROWN_MUSHROOM
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BEEF
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: LEATHER
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: FILLED_MAP
+  meta:
+    ==: ItemMeta
+    meta-type: MAP
+    map-id: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ARROW
+  amount: 13
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_HORSE_ARMOR
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: STICK
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: RAW_IRON
+  amount: 24
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ROTTEN_FLESH
+  amount: 35
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: MUTTON
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: COBBLESTONE
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GRAVEL
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 131
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 131
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 131
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BONE
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 131
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
