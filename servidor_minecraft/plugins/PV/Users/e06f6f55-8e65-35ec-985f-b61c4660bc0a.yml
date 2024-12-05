@@ -405,7 +405,10 @@ selector:
       DURABILITY: 0
     blockMaterial: CHEST
 pv1:
-- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND
+  amount: 10
 - null
 - null
 - null
