@@ -359,3 +359,92 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:09:26] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
 [21:09:26] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
 [21:09:31] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create canal2.jpg
+[21:09:39] [Async Chat Thread - #8/INFO]: [Not Secure] <esotilinuru> tpa
+[21:09:40] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create canal2.jpg
+[21:09:42] [Server thread/INFO]: idk_n1gg issued server command: /tpa nombre
+[21:09:49] [Server thread/INFO]: idk_n1gg issued server command: /. tpa nombre
+[21:09:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi
+[21:09:53] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to yoyi]
+[21:10:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create canal2.jpg
+[21:10:47] [Async Chat Thread - #10/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_
+[21:10:50] [Async Chat Thread - #11/INFO]: [Not Secure] <FreddyTurbina_> q
+[21:10:54] [Async Chat Thread - #11/INFO]: [Not Secure] <idk_n1gg> tepeame a un lugar random
+[21:10:59] [Server thread/INFO]: yoyi fell from a high place
+[21:11:06] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp FreddyTurbina_ idk_n1gg
+[21:11:06] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to idk_n1gg]
+[21:11:10] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[21:11:10] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[21:11:10] [Async Chat Thread - #11/INFO]: [Not Secure] <idk_n1gg> gg
+[21:11:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
+[21:11:15] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
+[21:11:19] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg FreddyTurbina_
+[21:11:19] [Server thread/INFO]: [FreddyTurbina_: Teleported idk_n1gg to FreddyTurbina_]
+[21:11:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[21:11:48] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[21:11:51] [Server thread/INFO]: FreddyTurbina_ issued server command: /weather clear
+[21:11:51] [Server thread/INFO]: [FreddyTurbina_: Set the weather to clear]
+[21:12:02] [Server thread/INFO]: Villager EntityVillager['Villager'/17219, uuid='1f7febf2-6549-41f0-a874-d0d75540309d', l='ServerLevel[world]', x=2280.01, y=100.00, z=1161.50, cpos=[142, 72], tl=3421, v=true] died, message: 'Villager was slain by Zombie'
+[21:12:18] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> gracias vrou
+[21:12:32] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> volvi tuve q ir a hacer algo
+[21:12:37] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create vicente.jpg
+[21:12:59] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create vicente.jpg
+[21:13:15] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> donde me tepiaste
+[21:13:19] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> donde bini?
+[21:13:20] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg
+[21:13:20] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to idk_n1gg]
+[21:13:49] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> despues
+[21:13:51] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> q asco
+[21:13:56] [Async Chat Thread - #12/INFO]: [Not Secure] <FreddyTurbina_> pero ahora pu
+[21:14:00] [Async Chat Thread - #12/INFO]: [Not Secure] <FreddyTurbina_> de peliar contra wardens
+[21:14:01] [Async Chat Thread - #12/INFO]: [Not Secure] <FreddyTurbina_> gg
+[21:14:03] [Async Chat Thread - #12/INFO]: [Not Secure] <idk_n1gg> reunamos a mas en el server primero
+[21:14:09] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> no q asco
+[21:14:15] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> JJAJAAJA
+[21:14:18] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> q cojones
+[21:14:21] [Server thread/INFO]: yoyi issued server command: /tpahereall
+[21:14:50] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi
+[21:14:50] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to yoyi]
+[21:15:06] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create vicente.jpg
+[21:15:09] [Server thread/INFO]: yoyi issued server command: /tpaesotilinuru
+[21:15:09] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> ./tetas
+[21:15:49] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> machuca es como bini
+[21:15:50] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[21:15:57] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival+
+[21:16:01] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[21:16:01] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[21:16:02] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_ tepeame lejos
+[21:16:05] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> donde
+[21:16:09] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> lejo
+[21:16:10] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[21:16:10] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[21:16:41] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp 10000000 100 10000000
+[21:16:41] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to 10000000.500000, 100.000000, 10000000.500000]
+[21:16:50] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> hermano pa eso me tepeo yo solo
+[21:16:56] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[21:16:58] [Server thread/INFO]: yoyi issued server command: /tpaesotilinuru
+[21:17:01] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> eso voy a hacer mejor
+[21:17:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg FreddyTurbina_
+[21:17:07] [Server thread/INFO]: [FreddyTurbina_: Teleported idk_n1gg to FreddyTurbina_]
+[21:17:15] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> gracias
+[21:17:22] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> gracias por nada
+[21:17:27] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> y si buscamos la mansion
+[21:17:35] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[21:17:35] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[21:17:54] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> sabes donde vive bini?
+[21:18:03] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> bini no tiene casa
+[21:18:10] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> se andaba haciendo una speedrun
+[21:18:11] [Async Chat Thread - #13/INFO]: [Not Secure] <yoyi> el wini
+[21:18:15] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> pero en el mc imbecil
+[21:18:29] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> por eso pu
+[21:18:33] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> no en la vida real
+[21:18:40] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> no tiene casa
+[21:18:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /locate structure minecraft:mansion
+[21:18:48] [Server thread/INFO]: Locating element minecraft:mansion took 701 ms
+[21:18:50] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> ya
+[21:18:54] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> vamos a buscar la mansion
+[21:18:56] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> hermano en la vida real y en el mc?
+[21:19:04] [Server thread/INFO]: idk_n1gg issued server command: /tpa FreddyTurbina_
+[21:19:11] [Server thread/INFO]: FreddyTurbina_ issued server command: /tpaccept
+[21:19:22] [Async Chat Thread - #13/INFO]: [Not Secure] <FreddyTurbina_> subete
+[21:19:27] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> puto
+[21:19:38] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> q cojones es eso

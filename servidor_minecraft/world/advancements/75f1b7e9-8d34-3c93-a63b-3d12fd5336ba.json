@@ -16,6 +16,7 @@
       "minecraft:river": "2024-12-05 17:57:21 +0000",
       "minecraft:lukewarm_ocean": "2024-12-05 18:13:31 +0000",
       "minecraft:lush_caves": "2024-12-06 21:01:11 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-06 21:06:49 +0000",
       "minecraft:desert": "2024-12-05 18:28:43 +0000",
       "minecraft:ocean": "2024-12-05 18:11:21 +0000",
       "minecraft:jungle": "2024-12-06 20:53:47 +0000",
@@ -23,6 +24,7 @@
       "minecraft:swamp": "2024-12-06 20:40:29 +0000",
       "minecraft:windswept_hills": "2024-12-05 19:41:59 +0000",
       "minecraft:savanna": "2024-12-05 19:05:37 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 21:05:17 +0000",
       "minecraft:windswept_savanna": "2024-12-05 19:04:52 +0000",
       "minecraft:plains": "2024-12-05 17:28:55 +0000",
       "minecraft:warm_ocean": "2024-12-05 18:26:59 +0000",
@@ -1758,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 21:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 20:46:30 +0000"
@@ -1800,6 +1808,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 21:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-06 20:56:26 +0000"
@@ -1812,9 +1832,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-06 21:13:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-06 20:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-06 21:13:28 +0000"
     },
     "done": true
   },

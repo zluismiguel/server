@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-12-06 21:06:59 +0000",
       "minecraft:beach": "2024-12-05 18:16:10 +0000",
       "minecraft:forest": "2024-12-05 18:00:22 +0000",
       "minecraft:sparse_jungle": "2024-12-06 20:59:22 +0000",
@@ -15,6 +16,7 @@
       "minecraft:river": "2024-12-05 18:45:59 +0000",
       "minecraft:lush_caves": "2024-12-06 21:00:13 +0000",
       "minecraft:windswept_hills": "2024-12-05 17:38:25 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 21:05:43 +0000",
       "minecraft:plains": "2024-12-05 17:30:10 +0000"
     },
     "done": false
@@ -1743,9 +1745,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-06 21:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-06 20:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-06 21:07:14 +0000"
     },
     "done": true
   },
@@ -1761,9 +1775,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-06 21:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-06 20:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-06 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-06 21:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-06 21:07:14 +0000"
     },
     "done": true
   },
@@ -1773,9 +1811,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-06 21:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-12-06 20:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-06 21:07:14 +0000"
     },
     "done": true
   },
