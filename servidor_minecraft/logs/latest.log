@@ -409,3 +409,26 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:15:39] [Async Chat Thread - #21/INFO]: [Not Secure] <FreddyTurbina_> 32 diamantes = huevo de aldeano
 [19:15:41] [Async Chat Thread - #21/INFO]: [Not Secure] <FreddyTurbina_> gg
 [19:16:25] [Server thread/INFO]: esotilinuru fell from a high place
+[19:17:31] [Async Chat Thread - #23/INFO]: [Not Secure] <FreddyTurbina_> 78
+[19:17:32] [Async Chat Thread - #23/INFO]: [Not Secure] <FreddyTurbina_> gg
+[19:20:20] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
+[19:20:29] [Server thread/INFO]: esotilinuru fell off a ladder
+[19:20:33] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[19:20:33] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[19:20:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[19:20:47] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[19:26:01] [Server thread/INFO]: esotilinuru fell from a high place
+[19:26:33] [Server thread/INFO]: yoyi fell from a high place
+[19:26:44] [Server thread/INFO]: FreddyTurbina_ issued server command: /sethome base
+[19:26:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:26:49] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:26:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /home base
+[19:26:59] [Server thread/INFO]: esotilinuru was slain by Zombie
+[19:27:00] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:27:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[19:27:07] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[19:27:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
+[19:27:15] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
+[19:27:18] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[19:27:18] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[19:27:20] [Server thread/INFO]: FreddyTurbina_ issued server command: /home base

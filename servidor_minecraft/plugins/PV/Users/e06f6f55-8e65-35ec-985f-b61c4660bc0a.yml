@@ -408,7 +408,7 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: DIAMOND
-  amount: 11
+  amount: 36
 - null
 - null
 - null
@@ -458,10 +458,22 @@ pv1:
 - null
 - null
 - null
-- null
-- null
-- null
-- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BEEF
+  amount: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: RAW_IRON
+  amount: 45
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: COMPOSTER
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NAME_TAG
+  amount: 2
 pv27:
 - null
 - null
