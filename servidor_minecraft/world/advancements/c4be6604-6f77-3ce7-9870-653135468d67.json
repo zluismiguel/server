@@ -9,9 +9,11 @@
     "criteria": {
       "minecraft:beach": "2024-12-05 18:16:10 +0000",
       "minecraft:forest": "2024-12-05 18:00:22 +0000",
+      "minecraft:sparse_jungle": "2024-12-06 20:59:22 +0000",
       "minecraft:ocean": "2024-12-05 18:44:58 +0000",
       "minecraft:jungle": "2024-12-06 20:54:02 +0000",
       "minecraft:river": "2024-12-05 18:45:59 +0000",
+      "minecraft:lush_caves": "2024-12-06 21:00:13 +0000",
       "minecraft:windswept_hills": "2024-12-05 17:38:25 +0000",
       "minecraft:plains": "2024-12-05 17:30:10 +0000"
     },
@@ -1738,6 +1740,54 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-06 20:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-06 20:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-06 20:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-06 20:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-06 20:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-06 20:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-06 20:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-06 20:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-06 20:56:26 +0000"
     },
     "done": true
   },

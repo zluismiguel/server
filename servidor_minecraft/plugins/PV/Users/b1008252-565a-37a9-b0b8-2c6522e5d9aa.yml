@@ -533,10 +533,7 @@ pv1:
 - null
 - null
 pv2:
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND
-  amount: 16
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: ARROW
