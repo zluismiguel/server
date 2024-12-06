@@ -1,22 +1,22 @@
-[18:16:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:16:15] [ServerMain/INFO]: Loaded 1174 recipes
-[18:16:16] [ServerMain/INFO]: Loaded 1271 advancements
-[18:16:17] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:16:17] [Server thread/INFO]: Loading properties
-[18:16:17] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[18:16:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:16:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:16:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[20:28:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:28:51] [ServerMain/INFO]: Loaded 1174 recipes
+[20:28:51] [ServerMain/INFO]: Loaded 1271 advancements
+[20:28:52] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:28:52] [Server thread/INFO]: Loading properties
+[20:28:52] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[20:28:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:28:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:28:56] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:16:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:16:21] [Server thread/INFO]: Default game type: SURVIVAL
-[18:16:21] [Server thread/INFO]: Generating keypair
-[18:16:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:16:22] [Server thread/INFO]: Using epoll channel type
-[18:16:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:16:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:16:22] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ProtectionStones-2.10.5.jar' in 'plugins'
+[20:28:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:28:57] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:57] [Server thread/INFO]: Generating keypair
+[20:28:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:58] [Server thread/INFO]: Using epoll channel type
+[20:28:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:28:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:28:58] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ProtectionStones-2.10.5.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WorldGuard]. Please download and install these plugins to run 'ProtectionStones'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-497]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-497]
@@ -26,560 +26,122 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-497]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-497]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[18:16:22] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[18:16:31] [Server thread/WARN]: Legacy plugin PV v1.5 does not specify an api-version.
-[18:16:32] [Server thread/INFO]: [PV] Loading server plugin PV v1.5
-[18:16:32] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
-[18:16:35] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@756cc8ea]
-[18:16:35] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
-[18:16:35] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[18:16:35] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.2
-[18:16:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:16:35] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
-[18:16:35] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18:16:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[18:16:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
-[18:16:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:16:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:16:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:16:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:16:38] [Server thread/INFO]: Preparing level "world"
-[18:16:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:16:43] [Server thread/INFO]: Time elapsed: 812 ms
-[18:16:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:16:43] [Server thread/INFO]: Time elapsed: 199 ms
-[18:16:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:16:44] [Server thread/INFO]: Time elapsed: 753 ms
-[18:16:44] [Server thread/INFO]: [PV] Enabling PV v1.5*
-[18:16:44] [Server thread/INFO]: PlayerVaults Have Been Enabled
-[18:16:44] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
-[18:16:44] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[18:16:44] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
-[18:16:44] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[18:16:44] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[18:16:45] [Server thread/INFO]: [Images] Enabling Images v2.5.2
-[18:16:47] [Server thread/INFO]: Running delayed init tasks
-[18:16:47] [Server thread/INFO]: Done (30.406s)! For help, type "help"
-[18:16:47] [Server thread/INFO]: Timings Reset
-[18:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[18:16:52] [Craft Scheduler Thread - 6 - Images/INFO]: [Images] Loaded 6 images...
-[18:16:53] [User Authenticator #0/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
-[18:16:55] [Server thread/INFO]: FreddyTurbina_ joined the game
-[18:16:55] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:57227] logged in with entity id 125 at ([world]1432.300000011921, 63.82014063050934, -344.69999998807907)
-[18:17:07] [User Authenticator #0/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
-[18:17:08] [Server thread/INFO]: idk_n1gg joined the game
-[18:17:08] [Server thread/INFO]: idk_n1gg[/127.157.217.156:52803] logged in with entity id 606 at ([world]2330.7602137185054, 64.0, -884.3049619887798)
-[18:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12968ms or 259 ticks behind
-[18:17:37] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create saez_y_valeri.jpg
-[18:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
-[18:17:49] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> freddy masturbina
-[18:17:51] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> q
-[18:17:57] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ayer te hablaba y ni respondias
-[18:18:02] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ayer?
-[18:18:06] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ayer
-[18:18:09] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> cuando
-[18:18:23] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> cuando estabamos jugando al mc pu
-[18:18:28] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> vro
-[18:18:31] [Server thread/INFO]: idk_n1gg issued server command: /tp FreddyTurbina_
-[18:18:31] [Server thread/INFO]: [idk_n1gg: Teleported idk_n1gg to FreddyTurbina_]
-[18:18:36] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> esque estaba viendo lo de las fotos
-[18:18:39] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> te decia q vieras mi base godin
-[18:18:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
-[18:18:48] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
-[18:19:08] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> vro
-[18:19:10] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> q
-[18:19:12] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> me voy a sacar fortuna 3
-[18:19:17] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> y me voy a poner a farmear diamantes
-[18:19:25] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> gg
-[18:19:37] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> dame a mi tambien
-[18:19:39] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> gg
-[18:19:44] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> te la compro
-[18:19:57] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> espero que no se una binix
-[18:19:58] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> veni mira
-[18:20:14] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> gg
-[18:20:14] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> GG
-[18:20:19] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> le hago un altar
-[18:20:25] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> sibro
-[18:20:29] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> gg
-[18:20:52] [Server thread/INFO]: idk_n1gg issued server command: /pv
-[18:21:03] [Server thread/INFO]: idk_n1gg issued server command: /pv
-[18:23:53] [Server thread/INFO]: idk_n1gg lost connection: Disconnected
-[18:23:53] [Server thread/INFO]: idk_n1gg left the game
-[18:27:11] [User Authenticator #1/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
-[18:27:11] [Server thread/INFO]: idk_n1gg joined the game
-[18:27:11] [Server thread/INFO]: idk_n1gg[/127.157.217.156:46327] logged in with entity id 2377 at ([world]1441.3167023981946, 69.0, -373.2965613171597)
-[18:27:28] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> "q ganas de pajiarse"
-[18:27:37] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> y los otros
-[18:27:52] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_
-[18:28:05] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> q
-[18:28:15] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> no se han metido todavia?
-[18:28:17] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> nose bro
-[18:28:19] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> meengoqir
-[18:28:20] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> estan en la llmada
-[18:28:20] [Server thread/INFO]: idk_n1gg lost connection: Disconnected
-[18:28:20] [Server thread/INFO]: idk_n1gg left the game
-[18:28:22] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> pero no se meten
-[18:29:03] [User Authenticator #2/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
-[18:29:03] [Server thread/INFO]: idk_n1gg joined the game
-[18:29:03] [Server thread/INFO]: idk_n1gg[/127.157.217.156:34901] logged in with entity id 2841 at ([world]1437.4217991623236, 65.9375, -366.04634058729624)
-[18:29:09] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> na mentira gg
-[18:29:12] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> valeri
-[18:29:17] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> a cuanto 8 de hierro
-[18:29:22] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> 1 diamante?
-[18:30:36] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> oe q coño dice el francisco
-[18:32:19] [Async Chat Thread - #7/INFO]: [Not Secure] <idk_n1gg> la meia volaa
-[18:32:27] [Async Chat Thread - #7/INFO]: [Not Secure] <FreddyTurbina_> gg fortuna 3
-[18:33:23] [Server thread/INFO]: idk_n1gg issued server command: /image create facu.jpg
-[18:34:31] [Async Chat Thread - #9/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_
-[18:34:37] [Async Chat Thread - #10/INFO]: [Not Secure] <idk_n1gg> como se ponen las imagenes
-[18:34:41] [Async Chat Thread - #9/INFO]: [Not Secure] <idk_n1gg> dogor
-[18:34:45] [Async Chat Thread - #9/INFO]: [Not Secure] <FreddyTurbina_> ya
-[18:34:47] [Async Chat Thread - #9/INFO]: [Not Secure] <FreddyTurbina_> voy a comer
-[18:34:50] [Async Chat Thread - #9/INFO]: [Not Secure] <FreddyTurbina_> ahora vuelvo
-[18:34:51] [Async Chat Thread - #9/INFO]: [Not Secure] <idk_n1gg> bruh
-[18:34:52] [Server thread/INFO]: FreddyTurbina_ lost connection: Disconnected
-[18:34:52] [Server thread/INFO]: FreddyTurbina_ left the game
-[18:35:01] [User Authenticator #3/INFO]: UUID of player yoyi is c4be6604-6f77-3ce7-9870-653135468d67
-[18:35:02] [Server thread/INFO]: yoyi joined the game
-[18:35:02] [Server thread/INFO]: yoyi[/127.220.101.200:57723] logged in with entity id 4158 at ([world]1430.3079293846831, 72.0, -386.69999998807907)
-[18:35:07] [Async Chat Thread - #9/INFO]: [Not Secure] <idk_n1gg> gg
-[18:35:23] [Server thread/INFO]: idk_n1gg issued server command: /pv
-[18:36:50] [Server thread/INFO]: idk_n1gg issued server command: /time set day
-[18:36:50] [Server thread/INFO]: [idk_n1gg: Set the time to 1000]
-[18:37:24] [Async Chat Thread - #11/INFO]: [Not Secure] <idk_n1gg> canal
-[18:37:32] [Async Chat Thread - #11/INFO]: [Not Secure] <idk_n1gg> la voy a liar
-[18:37:40] [Async Chat Thread - #11/INFO]: [Not Secure] <idk_n1gg> voy a buscar la casa del bini
-[18:42:14] [User Authenticator #4/INFO]: UUID of player esotilinuru is 75f1b7e9-8d34-3c93-a63b-3d12fd5336ba
-[18:42:14] [Server thread/INFO]: esotilinuru joined the game
-[18:42:14] [Server thread/INFO]: esotilinuru[/127.164.100.192:42331] logged in with entity id 8425 at ([world]1427.8000246305066, 80.0, -386.13585952003325)
-[18:42:47] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> gg
-[18:42:49] [Async Chat Thread - #14/INFO]: [Not Secure] <idk_n1gg> nigga
-[18:42:59] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> busco la base de bini?
-[18:43:03] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> na mentira
-[18:43:04] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> q
-[18:43:26] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> q
-[18:43:32] [Async Chat Thread - #13/INFO]: [Not Secure] <idk_n1gg> q
-[18:45:04] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> QUE COJONES
-[18:45:13] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> PILLE ALGO DEL BINI JAJAJA
-[18:45:21] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> tepea
-[18:45:23] [Server thread/INFO]: esotilinuru issued server command: /tpa id
-[18:45:28] [Server thread/INFO]: idk_n1gg issued server command: /tpaccept
-[18:46:17] [Server thread/INFO]: esotilinuru was blown up by Creeper
-[18:46:20] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> gg
-[18:46:28] [Async Chat Thread - #15/INFO]: [Not Secure] <esotilinuru> adicto al porno
-[18:46:36] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> adicto al nopor
-[18:46:42] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> q
-[18:47:14] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> q q paso?
-[18:47:21] [Async Chat Thread - #15/INFO]: [Not Secure] <esotilinuru> me sigue negando todo
-[18:47:28] [Async Chat Thread - #15/INFO]: [Not Secure] <idk_n1gg> q me cai en un oyo y me hice el waterdrop de mi vida
-[18:47:29] [Async Chat Thread - #15/INFO]: [Not Secure] <esotilinuru> cuando hay hasta pruebas
-[18:47:32] [Async Chat Thread - #16/INFO]: [Not Secure] <esotilinuru> jajaaj
-[18:47:35] [Async Chat Thread - #16/INFO]: [Not Secure] <idk_n1gg> no le creai
-[18:48:02] [Async Chat Thread - #16/INFO]: [Not Secure] <esotilinuru> te eligiria una y mil veces @crissvalencia
-[18:48:06] [Async Chat Thread - #16/INFO]: [Not Secure] <idk_n1gg> GG
-[18:48:29] [Async Chat Thread - #16/INFO]: [Not Secure] <idk_n1gg> voy a pillar la base subterranea donde esconde a las menores el bini
-[18:48:37] [Async Chat Thread - #16/INFO]: [Not Secure] <idk_n1gg> q
-[18:49:56] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> le creo o no
-[18:49:59] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> GG
-[18:49:59] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> no
-[18:50:02] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:50:10] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> vro ya no le creo a nadie
-[18:50:20] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> a mi
-[18:50:20] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> solo a los 5 fantasticos
-[18:50:25] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> que estan
-[18:50:25] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:50:28] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> tu
-[18:50:29] [Server thread/INFO]: idk_n1gg issued server command: /time set day
-[18:50:29] [Server thread/INFO]: [idk_n1gg: Set the time to 1000]
-[18:50:29] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> yo
-[18:50:35] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> chamusquin
-[18:50:36] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> saez
-[18:50:39] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> y canal
-[18:50:46] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:50:52] [Async Chat Thread - #17/INFO]: [Not Secure] <yoyi> gg
-[18:51:08] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> canal tu serias infiel?
-[18:51:19] [Async Chat Thread - #17/INFO]: [Not Secure] <yoyi> no
-[18:51:26] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> porque
-[18:51:26] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> muy bien vro
-[18:51:56] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> pero si pudieras estar con cesar sanchez le serias infiel a tu pareja?
-[18:51:58] [User Authenticator #5/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
-[18:51:58] [Server thread/INFO]: FreddyTurbina_ joined the game
-[18:51:58] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:53769] logged in with entity id 11877 at ([world]1550.300000011921, 30.0, -479.69999998807907)
-[18:51:59] [Async Chat Thread - #17/INFO]: [Not Secure] <yoyi> amenos que me esten siendo infiel
-[18:52:05] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> oh no se conecto
-[18:52:06] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> GG
-[18:52:14] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> vro pusi no me la vas a creer
-[18:52:16] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> machuca serias infiel
-[18:52:20] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> nobro
-[18:52:24] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> muy bien
-[18:52:24] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> el machuca si es
-[18:52:31] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> ojala la rafa aprenda de ti
-[18:52:36] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> chavales les vi toda la conversacion
-[18:52:37] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> le fue infiel al burger king con el macdonal
-[18:52:40] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> por la consola
-[18:52:41] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:52:41] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> GG
-[18:52:58] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> oe machuca pille un coso del bini
-[18:52:59] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> me la fokin pela chaval
-[18:53:02] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> gg
-[18:53:05] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[18:53:37] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> bro
-[18:53:38] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> Q COJONES
-[18:53:44] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> que tranquilo esta el server cuando no esta bini
-[18:53:46] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> VOLVI AL SPAWN JAJJAJAJ
-[18:53:48] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> sisi
-[18:54:14] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> me quedo godin el spawn gg
-[18:54:17] [Server thread/INFO]: yoyi has made the advancement [Diamonds!]
-[18:54:20] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> GG
-[18:54:23] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> sibro}
-[18:54:29] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> ojito el canal
-[18:54:40] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> oigan
-[18:54:42] [Async Chat Thread - #17/INFO]: [Not Secure] <yoyi> eran 2 noma
-[18:54:48] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> q cojones le falta un pedazo a un coso
-[18:54:48] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> puse un aldeano con fortuna
-[18:54:58] [Server thread/INFO]: esotilinuru fell from a high place
-[18:55:02] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> upsi
-[18:55:08] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> upsidupsi
-[18:55:11] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> hermano el bini borro las reglas
-[18:55:26] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> osea yo creo q fue el
-[18:55:26] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> el binix modifico las reglas y puso
-[18:55:29] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> machuca habla por dc
-[18:55:31] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> que el era el dueño de todo gg
-[18:55:36] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:55:41] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> machuca veni mira
-[18:56:09] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> o si no las saco cualquiera de nosotros cuando empezamos
-[18:56:20] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> q
-[18:56:23] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:56:40] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano y si cazo al bini
-[18:56:50] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[18:57:07] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> es que es un jabali vro
-[18:57:09] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> GG
-[18:57:19] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[18:57:53] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> amen
-[18:57:57] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[18:57:59] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q paso
-[18:58:00] [Async Chat Thread - #18/INFO]: [Not Secure] <yoyi> gg
-[18:58:02] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> bro
-[18:58:07] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q no se escucha nd del dc
-[18:58:09] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q
-[18:58:10] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> le estaba rezando a cesar sanchez
-[18:58:14] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> JAJAAJ
-[18:58:21] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> anda a hacer el altar en mi casa
-[18:58:37] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> esta bajo un coso de los cultivos de los aldeanos
-[18:59:02] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> FreddyTurbina_
-[18:59:04] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> q
-[18:59:08] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> venis la proxima semana?
-[18:59:11] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> no
-[18:59:20] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> valeria
-[18:59:22] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> fakin panza
-[18:59:23] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q
-[18:59:48] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q
-[18:59:53] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> que te gustan mas
-[18:59:57] [Server thread/INFO]: idk_n1gg issued server command: /time set noon
-[18:59:57] [Server thread/INFO]: [idk_n1gg: Set the time to 6000]
-[18:59:57] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> los cocodrilos
-[19:00:07] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> o los perros
-[19:00:11] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> el conce
-[19:00:11] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> los rombos
-[19:00:21] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> vro
-[19:00:22] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> dime
-[19:00:24] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[19:00:37] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> heermano pq esa pregunta
-[19:00:41] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> vro
-[19:00:46] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> responde nomas
-[19:00:53] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> los 2
-[19:00:59] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> esque tengo un tio que trabaja en tailandia
-[19:01:04] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> con frank de la junga
-[19:01:07] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano q coño
-[19:01:07] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> jungla
-[19:01:09] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[19:01:17] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> y de regalo me va a traer un caiman
-[19:01:19] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> de 2
-[19:01:19] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> hermano frank de la casa de cesar
-[19:01:22] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> metros
-[19:01:26] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[19:01:30] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> entonces te lo quiero regalr
-[19:01:33] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> bro
-[19:01:36] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> q cojones
-[19:01:41] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> porque se que nadie te regala nada
-[19:01:43] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> gg
-[19:01:46] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> daselo a saez pa q le muerda el nabo
-[19:01:46] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> pidele que te traiga a cesar sanchez bro
-[19:01:55] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> vro si se lo amputaron
-[19:01:56] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano ese es tarzan
-[19:02:08] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> que pedazo de truño
-[19:02:12] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> cesar de la jungla
-[19:02:14] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> pq se cuelga de los pelos del nabo de su padre
-[19:02:16] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[19:02:21] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> cesar el curioso
-[19:02:30] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> el bello pubico son las lianas gg
-[19:02:35] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> gg
-[19:02:37] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> vro
-[19:02:39] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> machuca
-[19:02:40] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> q
-[19:02:47] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> que hablas de vello pubico
-[19:02:54] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> bello bro
-[19:03:08] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> vro es vello
-[19:03:10] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano el machuca se saco el vello pubico y se lo puso de barba con silicona caliente
-[19:03:12] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> no bello
-[19:03:16] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> es vello
-[19:03:17] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> vro
-[19:03:19] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> voy a buscar
-[19:03:19] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> bello soy yo
-[19:03:20] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> bello es de belleza
-[19:03:25] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> vro
-[19:03:27] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> osea no bello
-[19:03:32] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> bellon´t
-[19:03:34] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> asi vro
-[19:03:35] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> gg
-[19:03:36] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> era vello
-[19:03:37] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[19:03:37] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:03:44] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> mielda loco
-[19:03:45] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[19:03:47] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q
-[19:03:49] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> casi me muero
-[19:03:52] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> bacan
-[19:03:53] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> vro pero que hablas de vello si apenas te salen en los brazos
-[19:03:54] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> gg
-[19:03:59] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> bro
-[19:04:06] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> en los brazos no me salen
-[19:04:09] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> me salen mas en las piernas
-[19:04:18] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> y en los cocos no
-[19:04:21] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> hermano tu no tienes piernas
-[19:04:22] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> vro que dices
-[19:04:25] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> gg
-[19:04:26] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> porque te los cortaron
-[19:04:27] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> si tengo una jungla
-[19:04:29] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> GGd
-[19:04:32] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> por cachopo
-[19:04:32] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> canal
-[19:04:38] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> que jungla
-[19:04:41] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> ati donde te salen pelos
-[19:04:41] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano es q tu tenes vagaina
-[19:04:44] [Async Chat Thread - #17/INFO]: [Not Secure] <esotilinuru> si te los corta gonzalo
-[19:04:47] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:05:27] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> valeri
-[19:05:29] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q
-[19:05:33] [Async Chat Thread - #18/INFO]: [Not Secure] <FreddyTurbina_> a cuanto los huevos de aldeanos
-[19:05:43] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano q cojones
-[19:05:58] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> esque me quiero hacer una granja de hierro
-[19:06:01] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> mejor vende el pene entero de aldeano
-[19:06:14] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> no los puros huevos
-[19:06:20] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> 32 diamantes?
-[19:06:33] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano el big valdebenito ese es el diddy
-[19:06:47] [Async Chat Thread - #17/INFO]: [Not Secure] <FreddyTurbina_> GG
-[19:06:52] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> hermano las mujeres son mas mentirosas
-[19:07:05] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> se esconden todo
-[19:07:11] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> y son mas lloronas despues
-[19:07:17] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q
-[19:07:34] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> hermano q cojones
-[19:07:36] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> factos
-[19:07:43] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> son terrible doble cara
-[19:08:24] [Async Chat Thread - #17/INFO]: [Not Secure] <idk_n1gg> GG pille el oyo de la mama de cesar
-[19:08:35] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> ahi donde salen los ajolotes esos
-[19:08:50] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
-[19:08:50] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
-[19:08:56] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> q cojones
-[19:09:11] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:09:11] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:09:20] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> el oyo de la madre de4 cesar esta mas peludo q la mrd
-[19:09:21] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
-[19:09:32] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:09:32] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:09:37] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode spectator
-[19:09:37] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Spectator Mode]
-[19:09:48] [Async Chat Thread - #18/INFO]: [Not Secure] <esotilinuru> vro con ese filtra la mierda y la convierte en agua gg
-[19:09:54] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> JAJAJAJA
-[19:09:54] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:09:54] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:09:58] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> hermano no
-[19:10:08] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> facugol salio de ahi
-[19:10:19] [Async Chat Thread - #18/INFO]: [Not Secure] <idk_n1gg> metengoqir
-[19:10:20] [Server thread/INFO]: idk_n1gg lost connection: Disconnected
-[19:10:20] [Server thread/INFO]: idk_n1gg left the game
-[19:12:52] [Server thread/INFO]: esotilinuru was slain by Zombie
-[19:13:00] [Async Chat Thread - #19/INFO]: [Not Secure] <FreddyTurbina_> 840
-[19:13:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /weather clear
-[19:13:15] [Server thread/INFO]: [FreddyTurbina_: Set the weather to clear]
-[19:14:52] [Async Chat Thread - #21/INFO]: [Not Secure] <FreddyTurbina_> 1 lingote de nederite = 23
-[19:14:59] [Async Chat Thread - #21/INFO]: [Not Secure] <yoyi> gg
-[19:15:10] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
-[19:15:10] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
-[19:15:39] [Async Chat Thread - #21/INFO]: [Not Secure] <FreddyTurbina_> 32 diamantes = huevo de aldeano
-[19:15:41] [Async Chat Thread - #21/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:16:25] [Server thread/INFO]: esotilinuru fell from a high place
-[19:17:31] [Async Chat Thread - #23/INFO]: [Not Secure] <FreddyTurbina_> 78
-[19:17:32] [Async Chat Thread - #23/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:20:20] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
-[19:20:29] [Server thread/INFO]: esotilinuru fell off a ladder
-[19:20:33] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:20:33] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:20:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:20:47] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:26:01] [Server thread/INFO]: esotilinuru fell from a high place
-[19:26:33] [Server thread/INFO]: yoyi fell from a high place
-[19:26:44] [Server thread/INFO]: FreddyTurbina_ issued server command: /sethome base
-[19:26:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:26:49] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:26:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /home base
-[19:26:59] [Server thread/INFO]: esotilinuru was slain by Zombie
-[19:27:00] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:27:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
-[19:27:07] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
-[19:27:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
-[19:27:15] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
-[19:27:18] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
-[19:27:18] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
-[19:27:20] [Server thread/INFO]: FreddyTurbina_ issued server command: /home base
-[19:27:28] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
-[19:27:28] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
-[19:29:07] [Server thread/INFO]: esotilinuru fell off a ladder
-[19:30:00] [Server thread/INFO]: esotilinuru fell from a high place
-[19:33:42] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:33:57] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
-[19:33:57] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
-[19:34:38] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:34:38] [Server thread/INFO]: esotilinuru fell from a high place
-[19:34:45] [Server thread/INFO]: esotilinuru issued server command: /back
-[19:35:29] [Server thread/INFO]: esotilinuru fell from a high place
-[19:36:02] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
-[19:36:02] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
-[19:37:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:38:11] [Server thread/INFO]: FreddyTurbina_ has made the advancement [Sweet Dreams]
-[19:39:29] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
-[19:39:35] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:39:35] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:39:49] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:39:49] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:40:04] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:40:04] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:40:11] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:40:11] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:40:26] [Server thread/INFO]: esotilinuru fell from a high place
-[19:40:31] [Server thread/INFO]: esotilinuru issued server command: /back
-[19:41:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
-[19:41:53] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
-[19:43:03] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:43:13] [Server thread/INFO]: esotilinuru fell from a high place
-[19:43:26] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:45:36] [Server thread/INFO]: esotilinuru fell from a high place
-[19:45:48] [Async Chat Thread - #25/INFO]: [Not Secure] <yoyi> machuca
-[19:45:57] [Async Chat Thread - #25/INFO]: [Not Secure] <FreddyTurbina_> q
-[19:46:20] [Async Chat Thread - #25/INFO]: [Not Secure] <yoyi> puedo tradear con tus aldeanos
-[19:46:23] [Async Chat Thread - #25/INFO]: [Not Secure] <FreddyTurbina_> si
-[19:46:32] [Async Chat Thread - #25/INFO]: [Not Secure] <yoyi> gracias
-[19:46:59] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi
-[19:46:59] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to yoyi]
-[19:47:13] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:48:43] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
-[19:48:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:48:47] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:48:59] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:48:59] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:49:27] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
-[19:49:33] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:49:33] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:49:45] [Server thread/INFO]: esotilinuru fell from a high place
-[19:49:49] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:49:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
-[19:49:53] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
-[19:50:11] [Server thread/INFO]: esotilinuru issued server command: /tpa yoyi
-[19:51:17] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
-[19:51:17] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
-[19:51:55] [Server thread/INFO]: yoyi has made the advancement [What a Deal!]
-[19:52:09] [Server thread/INFO]: esotilinuru fell off a ladder
-[19:55:27] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:55:31] [Server thread/INFO]: esotilinuru fell from a high place
-[19:55:50] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi
-[19:55:50] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to yoyi]
-[19:56:08] [Async Chat Thread - #27/INFO]: [Not Secure] <FreddyTurbina_> esmiabro
-[19:56:11] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[19:56:24] [Server thread/INFO]: esotilinuru fell off a ladder
-[20:00:13] [User Authenticator #6/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
-[20:00:13] [Server thread/INFO]: idk_n1gg joined the game
-[20:00:13] [Server thread/INFO]: idk_n1gg[/127.157.217.156:49803] logged in with entity id 43079 at ([world]-787.2576709667695, 0.0, -36.957662125729016)
-[20:00:27] [Async Chat Thread - #29/INFO]: [Not Secure] <idk_n1gg> gg
-[20:00:34] [Async Chat Thread - #29/INFO]: [Not Secure] <idk_n1gg> negra
-[20:00:36] [Async Chat Thread - #29/INFO]: [Not Secure] <yoyi> gg
-[20:00:41] [Async Chat Thread - #30/INFO]: [Not Secure] <idk_n1gg> vuelve el anticristo o no?
-[20:00:50] [Async Chat Thread - #30/INFO]: [Not Secure] <FreddyTurbina_> cesar sanchez
-[20:00:53] [Async Chat Thread - #30/INFO]: [Not Secure] <idk_n1gg> bini
-[20:01:01] [Async Chat Thread - #30/INFO]: [Not Secure] <idk_n1gg> ese es el sun wekong
-[20:01:13] [Async Chat Thread - #30/INFO]: [Not Secure] <idk_n1gg> wekong pq es de la u
-[20:01:29] [Async Chat Thread - #30/INFO]: [Not Secure] <idk_n1gg> oe pero vuelve ono
-[20:01:31] [Async Chat Thread - #30/INFO]: [Not Secure] <FreddyTurbina_> nose
-[20:01:35] [Async Chat Thread - #29/INFO]: [Not Secure] <idk_n1gg> gg
-[20:01:43] [Async Chat Thread - #29/INFO]: [Not Secure] <FreddyTurbina_> esque creo que no sabe que el server estaprendido
-[20:01:44] [Async Chat Thread - #29/INFO]: [Not Secure] <idk_n1gg> va a traer a un ejercito de peruanos
-[20:01:46] [Async Chat Thread - #29/INFO]: [Not Secure] <idk_n1gg> gg
-[20:01:47] [Async Chat Thread - #29/INFO]: [Not Secure] <FreddyTurbina_> pq no esta en el server de dc
-[20:01:50] [Async Chat Thread - #30/INFO]: [Not Secure] <idk_n1gg> ez
-[20:01:57] [Async Chat Thread - #29/INFO]: [Not Secure] <FreddyTurbina_> mejor que no sepa bro
-[20:01:58] [Async Chat Thread - #29/INFO]: [Not Secure] <FreddyTurbina_> gg
-[20:04:09] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
-[20:04:21] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day+
-[20:04:30] [Server thread/INFO]: FreddyTurbina_ lost connection: Disconnected
-[20:04:30] [Server thread/INFO]: FreddyTurbina_ left the game
-[20:04:35] [Async Chat Thread - #31/INFO]: [Not Secure] <idk_n1gg> hermano acabo de descubrir pq el cesar es millonario
-[20:04:40] [Async Chat Thread - #31/INFO]: [Not Secure] <idk_n1gg> es pq es actor pu
-[20:04:51] [Async Chat Thread - #31/INFO]: [Not Secure] <idk_n1gg> sale en el planeta de los simios y en jorge el curioso
-[20:05:31] [Async Chat Thread - #31/INFO]: [Not Secure] <idk_n1gg> esotilinuru
-[20:05:46] [Async Chat Thread - #31/INFO]: [Not Secure] <idk_n1gg> vro
-[20:07:17] [Server thread/INFO]: yoyi has made the advancement [Ice Bucket Challenge]
-[20:09:27] [Async Chat Thread - #33/INFO]: [Not Secure] <esotilinuru> volvi hijos de perra
-[20:09:30] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> gg
-[20:09:31] [Async Chat Thread - #33/INFO]: [Not Secure] <esotilinuru> machuca
-[20:09:38] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> machuca esta kgando
-[20:10:01] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> mañana hay prima
-[20:10:36] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> hermano teni q invitar al papa de la loca a jugar
-[20:10:43] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> pa pegarle
-[20:11:01] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> yo me llevo el latigo
-[20:11:07] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> le rompes la cadera
-[20:11:08] [Server thread/INFO]: esotilinuru fell from a high place
-[20:11:34] [User Authenticator #7/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
-[20:11:35] [Server thread/INFO]: FreddyTurbina_ joined the game
-[20:11:35] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:35729] logged in with entity id 47923 at ([world]1335.278083342921, 130.0, -153.28957171467812)
-[20:11:58] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> vuela alto FreddyTurbina_ Q.D.E.P
-[20:12:08] [Async Chat Thread - #33/INFO]: [Not Secure] <FreddyTurbina_> vuela alto cesar sanchez
-[20:12:30] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> vuela alto taper fade de bini Q.D.E.P.
-[20:12:37] [Async Chat Thread - #33/INFO]: [Not Secure] <esotilinuru> con parachoque
-[20:12:41] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> gg
-[20:12:47] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu.jpg
-[20:12:48] [Async Chat Thread - #33/INFO]: [Not Secure] <esotilinuru> y texturizado
-[20:12:52] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> vuela alto milton forcael
-[20:13:05] [Async Chat Thread - #33/INFO]: [Not Secure] <FreddyTurbina_> velaria
-[20:13:07] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> q
-[20:13:12] [Async Chat Thread - #33/INFO]: [Not Secure] <FreddyTurbina_> mira mi presentacion vro
-[20:13:15] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> velaria AJAJAJa
-[20:13:18] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> aer
-[20:13:40] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> AJAJJAAJJA
-[20:13:52] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> hermano hacele una iglesia en el cielo
-[20:14:14] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> hace un nabo y le pones la cara del facundo
-[20:14:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu2.jpg
-[20:14:22] [Async Chat Thread - #33/INFO]: [Not Secure] <FreddyTurbina_> oe
-[20:14:33] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> pa inmortalizarlo en el server
-[20:14:34] [Async Chat Thread - #33/INFO]: [Not Secure] <FreddyTurbina_> me pongo en creativo a hacerle el templo a cesar sanhez
-[20:14:38] [Async Chat Thread - #33/INFO]: [Not Secure] <esotilinuru> sisisisis
-[20:14:40] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> yaya
-[20:14:42] [Async Chat Thread - #33/INFO]: [Not Secure] <esotilinuru> sisas
-[20:14:58] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[20:14:58] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[20:15:10] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> en el cielo
-[20:15:25] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> encima de un nabo volador
-[20:16:06] [Async Chat Thread - #33/INFO]: [Not Secure] <idk_n1gg> vuela bajo cesar, no te extrañaremos
-[20:16:45] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:16:49] [Server thread/INFO]: yoyi was slain by Zombie
-[20:16:57] [Async Chat Thread - #34/INFO]: [Not Secure] <idk_n1gg> hermano pa inmortalizarlo pon sus 3 cosas favoritas
-[20:17:02] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:17:11] [Async Chat Thread - #34/INFO]: [Not Secure] <idk_n1gg> el nabo
-[20:17:35] [Async Chat Thread - #34/INFO]: [Not Secure] <idk_n1gg> los femboys
-[20:17:39] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:17:44] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:17:48] [Async Chat Thread - #34/INFO]: [Not Secure] <idk_n1gg> y una estatua de tamaño real de alguien random del curso
-[20:17:48] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:17:55] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:18:02] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
-[20:18:07] [Async Chat Thread - #34/INFO]: [Not Secure] <FreddyTurbina_> yo hacer el templo bro
-[20:18:14] [Async Chat Thread - #34/INFO]: [Not Secure] <FreddyTurbina_> yo hacer el templo bro
-[20:18:17] [Server thread/INFO]: FreddyTurbina_ issued server command: //set brown_wool
+[20:28:58] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:29:05] [Server thread/WARN]: Legacy plugin PV v1.5 does not specify an api-version.
+[20:29:05] [Server thread/INFO]: [PV] Loading server plugin PV v1.5
+[20:29:05] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[20:29:07] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@162e391f]
+[20:29:07] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
+[20:29:07] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[20:29:07] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.2
+[20:29:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:29:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[20:29:07] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:29:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:29:08] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[20:29:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:29:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:29:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:29:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:29:11] [Server thread/INFO]: Preparing level "world"
+[20:29:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:29:15] [Server thread/INFO]: Time elapsed: 673 ms
+[20:29:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:29:21] [Server thread/INFO]: Time elapsed: 5431 ms
+[20:29:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:29:21] [Server thread/INFO]: Time elapsed: 139 ms
+[20:29:21] [Server thread/INFO]: [PV] Enabling PV v1.5*
+[20:29:21] [Server thread/INFO]: PlayerVaults Have Been Enabled
+[20:29:21] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
+[20:29:21] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[20:29:21] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
+[20:29:21] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[20:29:21] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[20:29:21] [Server thread/INFO]: [Images] Enabling Images v2.5.2
+[20:29:23] [Server thread/INFO]: Running delayed init tasks
+[20:29:23] [Server thread/INFO]: Done (31.316s)! For help, type "help"
+[20:29:23] [Server thread/INFO]: Timings Reset
+[20:29:24] [User Authenticator #0/INFO]: UUID of player esotilinuru is 75f1b7e9-8d34-3c93-a63b-3d12fd5336ba
+[20:29:24] [User Authenticator #0/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
+[20:29:24] [Server thread/INFO]: esotilinuru (/127.164.100.192:46787) lost connection: Disconnected
+[20:29:24] [Server thread/INFO]: idk_n1gg (/127.157.217.156:40251) lost connection: Disconnected
+[20:29:25] [User Authenticator #0/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
+[20:29:26] [Craft Scheduler Thread - 6 - Images/INFO]: [Images] Loaded 9 images...
+[20:29:27] [Server thread/INFO]: FreddyTurbina_ joined the game
+[20:29:27] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:39219] logged in with entity id 116 at ([world]1541.3910758739692, 153.2590725592043, -119.75984103435755)
+[20:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[20:29:46] [User Authenticator #0/INFO]: UUID of player esotilinuru is 75f1b7e9-8d34-3c93-a63b-3d12fd5336ba
+[20:29:46] [Server thread/INFO]: esotilinuru joined the game
+[20:29:46] [Server thread/INFO]: esotilinuru[/127.164.100.192:33485] logged in with entity id 360 at ([world]1381.3878932364182, 74.0, -429.8411577239097)
+[20:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5505ms or 110 ticks behind
+[20:29:51] [User Authenticator #0/INFO]: UUID of player yoyi is c4be6604-6f77-3ce7-9870-653135468d67
+[20:29:53] [Server thread/INFO]: yoyi joined the game
+[20:29:53] [Server thread/INFO]: yoyi[/127.220.101.200:60319] logged in with entity id 555 at ([world]1413.0871593533468, -58.0, -262.67222226906216)
+[20:29:54] [User Authenticator #0/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
+[20:29:55] [Server thread/INFO]: idk_n1gg joined the game
+[20:29:55] [Server thread/INFO]: idk_n1gg[/127.157.217.156:38635] logged in with entity id 567 at ([world]-587.6999999880791, -21.0, -159.80973433784172)
+[20:29:58] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> gg
+[20:30:06] [Server thread/INFO]: FreddyTurbina_ issued server command: //set quartz_block
+[20:30:08] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> oe al canal le gusta la martina esa?
+[20:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6219ms or 124 ticks behind
+[20:30:13] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> si
+[20:30:14] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> y al machuca tambien
+[20:30:24] [Async Chat Thread - #0/INFO]: [Not Secure] <yoyi> me esperan
+[20:30:28] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> pq el le abra preguntado a su hermana por algo no
+[20:30:48] [Async Chat Thread - #0/INFO]: [Not Secure] <yoyi> voy a ir a buscaralgo
+[20:30:54] [Async Chat Thread - #0/INFO]: [Not Secure] <esotilinuru> ya
+[20:31:39] [Server thread/INFO]: FreddyTurbina_ issued server command: //set quartz_stairs
+[20:31:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /spawn
+[20:31:54] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> gg
+[20:32:01] [Server thread/INFO]: FreddyTurbina_ issued server command: //set chiseled_quartz_block
+[20:32:11] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> machuca quien te gusta
+[20:32:15] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> q
+[20:32:16] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> eh
+[20:32:26] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> quien
+[20:32:39] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> aplaude
+[20:32:45] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ALOOO
+[20:32:55] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> te habla tu polola machuca?
+[20:33:11] [Server thread/INFO]: FreddyTurbina_ issued server command: //set chiseled_quartz_block
+[20:33:13] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> quien y pq es de kinder
+[20:33:22] [Server thread/INFO]: FreddyTurbina_ issued server command: //set chiseled_quartz_block
+[20:33:33] [Server thread/INFO]: FreddyTurbina_ issued server command: //set chiseled_quartz_block
+[20:33:51] [Server thread/INFO]: FreddyTurbina_ issued server command: //set chiseled_quartz_block
+[20:33:57] [Async Chat Thread - #0/INFO]: [Not Secure] <esotilinuru> oye daniel mira la hermana del valeria esta entera rica
+[20:34:02] [Async Chat Thread - #0/INFO]: [Not Secure] <esotilinuru> y el daniel dijo
+[20:34:06] [Async Chat Thread - #1/INFO]: [Not Secure] <esotilinuru> uuu si hermano
+[20:34:07] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> machuca de mierda
+[20:34:12] [Server thread/INFO]: FreddyTurbina_ issued server command: //set chiseled_quartz_block
+[20:34:16] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> el otro es autista diagnosticado
+[20:34:22] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> machuca tambien
+[20:34:28] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> machuca jueputa
+[20:34:34] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> por eso las mujeres no te hablan
+[20:34:43] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> le caes mal a todas las mujeres del curso
+[20:34:49] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> y me han dicho
+[20:35:15] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> elias pero enserio
+[20:35:25] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> le caes mal a todas las mujeres del curso
+[20:35:31] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> yo al machuca no le creo
+[20:35:41] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> es como pinocho. cada q miente le crece la nariz
+[20:36:03] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> y tambien es pinocho pq esta echo de muchos palos
+[20:36:18] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> oe viste lo otro
+[20:36:22] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> esotilinuru
+[20:36:23] [Server thread/INFO]: FreddyTurbina_ issued server command: /msg idk_n1gg manda tp
+[20:36:35] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> hermano machuca dice q le mande tp
+[20:36:38] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> ni kgando
+[20:36:44] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg FreddyTurbina_
+[20:36:44] [Server thread/INFO]: [FreddyTurbina_: Teleported idk_n1gg to FreddyTurbina_]
+[20:36:47] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> mira bro
+[20:36:52] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> como va quedando
+[20:37:02] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> hermano estaba en una cueva
+[20:37:05] [Server thread/INFO]: esotilinuru issued server command: /tpa fre
+[20:37:06] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> pedazo de inutil
+[20:37:08] [Server thread/INFO]: FreddyTurbina_ issued server command: /tpaccept
+[20:37:08] [Server thread/INFO]: FreddyTurbina_ issued server command: /tpaccept
+[20:37:27] [Server thread/INFO]: idk_n1gg issued server command: /tpa FreddyTurbina_
+[20:37:32] [Server thread/INFO]: FreddyTurbina_ issued server command: /tpaccept
+[20:37:33] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> JAJJAAJ
+[20:37:45] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> ILLO
+[20:37:54] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> esotilinuru
+[20:37:59] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> TIRATE
+[20:38:05] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> PA ANAJO
+[20:38:08] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> ABAJO
+[20:38:14] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> ARRIBA
