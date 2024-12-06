@@ -427,10 +427,11 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: BEEF
-  amount: 4
+  amount: 7
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: LEATHER
+  amount: 3
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: FILLED_MAP
@@ -441,7 +442,7 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: ARROW
-  amount: 13
+  amount: 64
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: DIAMOND_HORSE_ARMOR
@@ -452,22 +453,23 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: RAW_IRON
-  amount: 24
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: ROTTEN_FLESH
   amount: 35
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
+  type: ROTTEN_FLESH
+  amount: 48
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
   type: MUTTON
-  amount: 3
+  amount: 4
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: COBBLESTONE
+  amount: 17
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: GRAVEL
-  amount: 4
+  amount: 5
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: IRON_HELMET
@@ -492,6 +494,7 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: BONE
+  amount: 14
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: IRON_BOOTS
@@ -499,20 +502,59 @@ pv1:
     ==: ItemMeta
     meta-type: ARMOR
     Damage: 131
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIRT
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BROWN_WOOL
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 154
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: TUFF
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: STRING
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GUNPOWDER
+  amount: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: SADDLE
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ANDESITE
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CRYING_OBSIDIAN
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: SUNFLOWER
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: OAK_SAPLING
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: COBBLED_DEEPSLATE
+  amount: 5
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BOOK
+  amount: 12
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: LECTERN
 - null
 - null
 - null
@@ -576,7 +618,7 @@ pv2:
   meta:
     ==: ItemMeta
     meta-type: TILE_ENTITY
-    internal: H4sIAAAAAAAA/43Sy1KDMBQG4EO52KJWqq0b38SV42Xhuu6ZQI6Q4ZAwIYz27cViIIPTmWb9/X9OLjFADOtnUnn1Jo0whw9WLGEhOOxqITHX7NM8tmVHFeo0U98rCN8N1m0MAIkHwZ6UAQ/CF9VJEw3JzZRUrEpJFfAnPSuXg3yYZK6yjJCnHLFpiRm0mYXNeENm68xFosY0Y0QW+xaH/3EjeH8GPIzNgcXBgNcTzpQcWThjdxMrOtmor77W2sjai8Emzv5GCznexGpWeu+UKuIoU9Y0NM5wafnTwG+cUTUybt3Vme565pw5c6b18U2PMDldaJTOS+s2p11rnMu8PdNtZ+70n9rF4BtW+BC9spoVCL9r9mfcZygFEu/JDxX+EJn6AgAA
+    internal: H4sIAAAAAAAA/43STVODMBAG4KV82KJWqq0X/4knx4+DZ70zgayQYUmYEEb772UmDTDmYHN+3uXNhhQghe0zqbJ5k0aY4yer1rASHA6tkFhq9mUe+3qgBnVeqJ8NxO8G2z4FgCyA6IOUARvYzQHFmpxUFUD8ogZpEjjJwMqHWZaqKAh5zhG7nphBl1m7zMpm9os6JFrMC0bkcOBw6ONO8LE6HqfJscORxdsZF0pOLHIstuxuZtUgO/U9jvVsYm22+L7RQk6buHBwY+H9YqgijjJnXUd+h0vLbxZVNTLu3JNzV2e6a69nybQeH+gvzLyBRumy9tzOc71ZLHNyt2e6/X//1CQP/sprgTTdOUghNKwKIXllLasQTucXb7MsufoCAAA=
     blockMaterial: GRAY_SHULKER_BOX
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
