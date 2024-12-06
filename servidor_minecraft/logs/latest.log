@@ -432,3 +432,17 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:27:18] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
 [19:27:18] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
 [19:27:20] [Server thread/INFO]: FreddyTurbina_ issued server command: /home base
+[19:27:28] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[19:27:28] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[19:29:07] [Server thread/INFO]: esotilinuru fell off a ladder
+[19:30:00] [Server thread/INFO]: esotilinuru fell from a high place
+[19:33:42] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:33:57] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[19:33:57] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[19:34:38] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:34:38] [Server thread/INFO]: esotilinuru fell from a high place
+[19:34:45] [Server thread/INFO]: esotilinuru issued server command: /back
+[19:35:29] [Server thread/INFO]: esotilinuru fell from a high place
+[19:36:02] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[19:36:02] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[19:37:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
