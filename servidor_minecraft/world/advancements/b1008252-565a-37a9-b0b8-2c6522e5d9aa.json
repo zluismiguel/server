@@ -11,6 +11,7 @@
       "minecraft:beach": "2024-12-05 18:01:14 +0000",
       "minecraft:mushroom_fields": "2024-12-05 18:23:12 +0000",
       "minecraft:forest": "2024-12-05 18:00:45 +0000",
+      "minecraft:taiga": "2024-12-06 20:07:47 +0000",
       "minecraft:mangrove_swamp": "2024-12-05 18:45:47 +0000",
       "minecraft:sparse_jungle": "2024-12-05 18:06:19 +0000",
       "minecraft:deep_ocean": "2024-12-05 18:03:40 +0000",
@@ -889,6 +890,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-05 18:28:40 +0000",
+      "minecraft:enderman": "2024-12-06 20:14:56 +0000",
       "minecraft:spider": "2024-12-05 18:47:37 +0000",
       "minecraft:zombie": "2024-12-05 18:32:01 +0000",
       "minecraft:creeper": "2024-12-05 18:38:04 +0000",
