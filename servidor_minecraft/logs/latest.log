@@ -446,3 +446,29 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:36:02] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
 [19:36:02] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
 [19:37:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:38:11] [Server thread/INFO]: FreddyTurbina_ has made the advancement [Sweet Dreams]
+[19:39:29] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
+[19:39:35] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[19:39:35] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[19:39:49] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[19:39:49] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[19:40:04] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[19:40:04] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[19:40:11] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[19:40:11] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[19:40:26] [Server thread/INFO]: esotilinuru fell from a high place
+[19:40:31] [Server thread/INFO]: esotilinuru issued server command: /back
+[19:41:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[19:41:53] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[19:43:03] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:43:13] [Server thread/INFO]: esotilinuru fell from a high place
+[19:43:26] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[19:45:36] [Server thread/INFO]: esotilinuru fell from a high place
+[19:45:48] [Async Chat Thread - #25/INFO]: [Not Secure] <yoyi> machuca
+[19:45:57] [Async Chat Thread - #25/INFO]: [Not Secure] <FreddyTurbina_> q
+[19:46:20] [Async Chat Thread - #25/INFO]: [Not Secure] <yoyi> puedo tradear con tus aldeanos
+[19:46:23] [Async Chat Thread - #25/INFO]: [Not Secure] <FreddyTurbina_> si
+[19:46:32] [Async Chat Thread - #25/INFO]: [Not Secure] <yoyi> gracias
+[19:46:59] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi
+[19:46:59] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to yoyi]
+[19:47:13] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
