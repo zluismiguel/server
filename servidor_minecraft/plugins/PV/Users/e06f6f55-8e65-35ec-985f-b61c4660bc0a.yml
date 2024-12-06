@@ -412,7 +412,7 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: DIAMOND
-  amount: 36
+  amount: 43
 - null
 - null
 - null
