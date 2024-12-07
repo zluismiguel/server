@@ -592,10 +592,7 @@ pv2:
   v: 3700
   type: COBBLESTONE
   amount: 64
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: OAK_LOG
-  amount: 63
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: SPRUCE_PLANKS
@@ -618,7 +615,7 @@ pv2:
   meta:
     ==: ItemMeta
     meta-type: TILE_ENTITY
-    internal: H4sIAAAAAAAA/43STVODMBAG4KV82KJWqq0X/4knx4+DZ70zgayQYUmYEEb772UmDTDmYHN+3uXNhhQghe0zqbJ5k0aY4yer1rASHA6tkFhq9mUe+3qgBnVeqJ8NxO8G2z4FgCyA6IOUARvYzQHFmpxUFUD8ogZpEjjJwMqHWZaqKAh5zhG7nphBl1m7zMpm9os6JFrMC0bkcOBw6ONO8LE6HqfJscORxdsZF0pOLHIstuxuZtUgO/U9jvVsYm22+L7RQk6buHBwY+H9YqgijjJnXUd+h0vLbxZVNTLu3JNzV2e6a69nybQeH+gvzLyBRumy9tzOc71ZLHNyt2e6/X//1CQP/sprgTTdOUghNKwKIXllLasQTucXb7MsufoCAAA=
+    internal: H4sIAAAAAAAA/43Sy1KDMBQG4EO52KJWqq0b38SV42XhWvdMIEfIcEiYEEb79mJjgKHTmWbL9/85JIkBYlg/k8qrN2mE2X+yYgkLwWFXC4m5Zl/msS07qlCnmfpZQfhusG5jAEg8CD5IGfAgfFGdNJFNbsakYlVKqoB/6Tm5tPJhlLnKMkKecsSmJWbQZRYu49nMdjIXiRrTjBE57DscHuNG8P4fcD80Bw4HFq9HnCk5sHDG7kZWdLJR332ts5GzF9Ymk/2NFnI4idWs9H5SqoijTFnT0DDDpeNPlt9MRtXIuHNXZ7rrmZvMmTOtD3d6gMnpQqN0Xjq3Oe1aMznM2zPdduZOv6nd8D5i8A0rfIheWc0KhL91fA2lQOL9l1/r6Yh8+gIAAA==
     blockMaterial: GRAY_SHULKER_BOX
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
