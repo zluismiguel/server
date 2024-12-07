@@ -232,6 +232,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-05 18:00:11 +0000",
+      "golden_apple": "2024-12-07 20:51:53 +0000",
       "golden_carrot": "2024-12-05 19:37:19 +0000",
       "carrot": "2024-12-05 18:28:13 +0000"
     },
@@ -1860,6 +1861,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-07 20:52:00 +0000"
     },
     "done": true
   },

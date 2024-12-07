@@ -404,3 +404,30 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:49:04] [Async Chat Thread - #13/INFO]: [Not Secure] <yoyi> pipippipipipi
 [20:49:08] [Server thread/INFO]: yoyi lost connection: Disconnected
 [20:49:08] [Server thread/INFO]: yoyi left the game
+[20:51:27] [User Authenticator #5/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
+[20:51:28] [Server thread/INFO]: FreddyTurbina_ joined the game
+[20:51:28] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:51489] logged in with entity id 23452 at ([world]1336.5167220518322, 130.0, -157.5912252272644)
+[20:51:41] [Async Chat Thread - #14/INFO]: [Not Secure] <esotilinuru> chamusquiña
+[20:51:56] [Async Chat Thread - #15/INFO]: [Not Secure] <FreddyTurbina_> vro
+[20:52:00] [Async Chat Thread - #15/INFO]: [Not Secure] <FreddyTurbina_> y los otros
+[20:52:08] [Async Chat Thread - #15/INFO]: [Not Secure] <esotilinuru> se mandaron a cambiar gg
+[20:52:13] [Async Chat Thread - #15/INFO]: [Not Secure] <FreddyTurbina_> bro y el saez
+[20:52:27] [Async Chat Thread - #15/INFO]: [Not Secure] <FreddyTurbina_> vro
+[20:52:30] [Async Chat Thread - #15/INFO]: [Not Secure] <FreddyTurbina_> tengo visitas gg
+[20:52:31] [Async Chat Thread - #15/INFO]: [Not Secure] <esotilinuru> nose
+[20:52:39] [Async Chat Thread - #14/INFO]: [Not Secure] <FreddyTurbina_> te dejo el server prendido?
+[20:52:49] [Async Chat Thread - #14/INFO]: [Not Secure] <esotilinuru> ya
+[20:52:53] [Async Chat Thread - #14/INFO]: [Not Secure] <FreddyTurbina_> ya
+[20:52:53] [Async Chat Thread - #14/INFO]: [Not Secure] <esotilinuru> pero prende
+[20:52:56] [Async Chat Thread - #14/INFO]: [Not Secure] <esotilinuru> el dia
+[20:52:56] [Async Chat Thread - #14/INFO]: [Not Secure] <FreddyTurbina_> despues vuelvo
+[20:52:57] [Async Chat Thread - #14/INFO]: [Not Secure] <esotilinuru> gg
+[20:52:57] [Server thread/INFO]: esotilinuru drowned
+[20:53:00] [Async Chat Thread - #14/INFO]: [Not Secure] <FreddyTurbina_> gg
+[20:53:01] [Server thread/INFO]: FreddyTurbina_ lost connection: Disconnected
+[20:53:01] [Server thread/INFO]: FreddyTurbina_ left the game
+[20:55:09] [Server thread/INFO]: esotilinuru issued server command: /sethome godin
+[20:55:19] [Server thread/INFO]: esotilinuru issued server command: /home godin
+[20:55:26] [Server thread/INFO]: esotilinuru issued server command: /home cultivos
+[20:56:42] [Server thread/INFO]: esotilinuru lost connection: Disconnected
+[20:56:42] [Server thread/INFO]: esotilinuru left the game
