@@ -420,7 +420,7 @@ pv1:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: WHITE_WOOL
-  amount: 3
+  amount: 2
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: BROWN_MUSHROOM
@@ -575,11 +575,13 @@ pv1:
 - null
 - null
 pv2:
-- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: POPPY
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: ARROW
-  amount: 60
+  amount: 64
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: COBBLESTONE
@@ -592,7 +594,9 @@ pv2:
   v: 3700
   type: COBBLESTONE
   amount: 64
-- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: TOTEM_OF_UNDYING
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: SPRUCE_PLANKS
@@ -600,7 +604,7 @@ pv2:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: DIRT
-  amount: 58
+  amount: 64
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: COBBLESTONE
@@ -615,12 +619,12 @@ pv2:
   meta:
     ==: ItemMeta
     meta-type: TILE_ENTITY
-    internal: H4sIAAAAAAAA/43STVODMBAG4KV82KJWqq0X/4knx4+DZ70zgayQYUmYEEb778WJAcYcbM7Pu3lnkxQghe0jqbJ5kUaY4zur1rASHA6tkFhq9mHu+3qgBnVeqK8NxK8G2z4FgCyA6I2UARvYzQHFmpxUFUD8pAZpEviVgZV3syxVURDynCN2PTGDLrN2mZXN7Bd1SLSYF4zI4cDh0Med4GN1PE6TY4cji7czLpScWORYbNnNzKpBdupzHOvZxNpscb/RQk6bOHNwY+HtYqgijjJnXUd+h3PLrxZVNTLu3INzFye6S69nybQeH+gvzLyBRumy9tzOc71ZLHNy1ye6/X9/apIHf+W1QOIphIZVISTPrGUVws+Z/wvAN4RQyHT6AgAA
+    internal: H4sIAAAAAAAA/43Sy1KDMBQG4EO52KJWqq0b38SV42XhWvdMIEfIcEiYEEb79mJjgKHTmWbL9/85JIkBYlg/k8qrN2mE2X+yYgkLwWFXC4m5Zl/msS07qlCnmfpZQfhusG5jAEg8CD5IGfAgfFGdNJFNbsakYlVKqoB/6Tm5tPJhlLnKMkKecsSmJWbQZRYu49nMdjIXiRrTjBE57DscHuNG8P4fcD80Bw4HFq9HnCk5sHDG7kZWdLJR332ts5GzF9Ymk/2NFnI4idWs9H5SqoijTFnT0DDDpeNPlt9MRtXIuHNXZ7rrmZvMmTOtD3d6gMnpQqN0Xjq3Oe1aMznM2zPdduZOv6nd8D5i8A0rfIheWc0KhL91fA2lQOL9l1/r6Yh8+gIAAA==
     blockMaterial: GRAY_SHULKER_BOX
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: OAK_PLANKS
-  amount: 2
+  amount: 6
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: COBBLESTONE
@@ -635,7 +639,7 @@ pv2:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: ROTTEN_FLESH
-  amount: 2
+  amount: 7
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: COBBLESTONE
@@ -650,47 +654,168 @@ pv2:
   amount: 5
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
-  type: WHITE_WOOL
-  amount: 2
+  type: BREAD
+  amount: 5
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: LIGHT_GRAY_WOOL
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: WHEAT_SEEDS
-  amount: 2
+  amount: 5
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: BONE
+  amount: 11
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_INGOT
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: OAK_SLAB
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NAME_TAG
   amount: 2
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: EGG
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLDEN_APPLE
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 734
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: RAW_IRON
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLD_INGOT
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ARROW
+  amount: 30
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: SUGAR_CANE
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIRT
+  amount: 11
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: SMOOTH_BASALT
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GUNPOWDER
+  amount: 14
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: CALCITE
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: COBBLED_DEEPSLATE
+  amount: 32
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLDEN_CARROT
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: STICK
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND
+  amount: 17
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: SPRUCE_BOAT
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: OAK_LOG
+  amount: 49
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 47
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: WATER_BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_SHOVEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 97
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 16
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DIG_SPEED: 4
+      LOOT_BONUS_BLOCKS: 3
+      MENDING: 1
+    repair-cost: 7
+    Damage: 28
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 476
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 165
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 165
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 165
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: TORCH
+  amount: 38
+- ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 165
