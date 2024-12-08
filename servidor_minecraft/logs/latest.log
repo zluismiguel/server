@@ -1,22 +1,22 @@
-[19:39:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:40:00] [ServerMain/INFO]: Loaded 1174 recipes
-[19:40:00] [ServerMain/INFO]: Loaded 1271 advancements
-[19:40:00] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[19:40:00] [Server thread/INFO]: Loading properties
-[19:40:01] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[19:40:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:40:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:40:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[20:10:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:10:57] [ServerMain/INFO]: Loaded 1174 recipes
+[20:10:57] [ServerMain/INFO]: Loaded 1271 advancements
+[20:10:58] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:10:58] [Server thread/INFO]: Loading properties
+[20:10:58] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[20:10:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:10:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:10:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[19:40:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[19:40:03] [Server thread/INFO]: Default game type: SURVIVAL
-[19:40:03] [Server thread/INFO]: Generating keypair
-[19:40:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:40:03] [Server thread/INFO]: Using epoll channel type
-[19:40:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:40:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[19:40:04] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ProtectionStones-2.10.5.jar' in 'plugins'
+[20:10:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:11:00] [Server thread/INFO]: Default game type: SURVIVAL
+[20:11:00] [Server thread/INFO]: Generating keypair
+[20:11:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:11:00] [Server thread/INFO]: Using epoll channel type
+[20:11:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:11:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:11:00] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ProtectionStones-2.10.5.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WorldGuard]. Please download and install these plugins to run 'ProtectionStones'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-497]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-497]
@@ -26,161 +26,170 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-497]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-497]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[19:40:04] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19:40:09] [Server thread/WARN]: Legacy plugin PV v1.5 does not specify an api-version.
-[19:40:09] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[19:40:10] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[19:40:10] [Server thread/INFO]: [floodgate] Took 742ms to boot Floodgate
-[19:40:10] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[19:40:10] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[19:40:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:40:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:40:12] [Server thread/INFO]: [PV] Loading server plugin PV v1.5
-[19:40:12] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
-[19:40:12] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@63450281]
-[19:40:12] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.1-SNAPSHOT
-[19:40:13] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[19:40:13] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[19:40:13] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
-[19:40:13] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[19:40:13] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.2
-[19:40:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:40:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
-[19:40:13] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[19:40:13] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[19:40:13] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
-[19:40:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:40:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:40:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:40:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:40:15] [Server thread/INFO]: Preparing level "world"
-[19:40:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:40:17] [Server thread/INFO]: Time elapsed: 371 ms
-[19:40:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:40:19] [Server thread/INFO]: Time elapsed: 1663 ms
-[19:40:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:40:19] [Server thread/INFO]: Time elapsed: 162 ms
-[19:40:19] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[19:40:20] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[19:40:20] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[19:40:20] [Server thread/INFO]: [PV] Enabling PV v1.5*
-[19:40:20] [Server thread/INFO]: PlayerVaults Have Been Enabled
-[19:40:20] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.1-SNAPSHOT
-[19:40:21] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
-[19:40:21] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[19:40:21] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
-[19:40:21] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[19:40:21] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[19:40:21] [Server thread/INFO]: [Images] Enabling Images v2.5.2
-[19:40:21] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[19:40:21] [Server thread/INFO]: [Geyser-Spigot] 
-[19:40:21] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.1-b726 (git-master-2019e53)
-[19:40:21] [Server thread/INFO]: [Geyser-Spigot] 
-[19:40:21] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[19:40:29] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1932
-[19:40:29] [Server thread/INFO]: [Geyser-Spigot] Done (7.23s)! Run /geyser help for help!
-[19:40:29] [Server thread/INFO]: Running delayed init tasks
-[19:40:29] [Server thread/INFO]: Done (28.559s)! For help, type "help"
-[19:40:29] [Server thread/INFO]: Timings Reset
-[19:40:29] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:40:32] [Craft Scheduler Thread - 0 - Images/INFO]: [Images] Loaded 24 images...
-[19:41:40] [User Authenticator #0/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
-[19:41:42] [Server thread/INFO]: FreddyTurbina_ joined the game
-[19:41:42] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:39371] logged in with entity id 172 at ([world]1335.6322678616016, 130.5, -148.40034402027663)
-[19:42:30] [User Authenticator #0/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
-[19:42:31] [Server thread/INFO]: idk_n1gg joined the game
-[19:42:31] [Server thread/INFO]: idk_n1gg[/127.157.217.156:54811] logged in with entity id 513 at ([world]1431.300000011921, 83.0, -384.37749325785586)
-[19:42:34] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> ya bro
-[19:42:37] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> el templo
-[19:42:41] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ermano kgon de mierda
-[19:42:45] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> amor de mi vida
-[19:42:54] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ermano q cojones
-[19:43:12] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> es de dia y hay como 50 creepers afuera de mi casa
-[19:43:30] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:43:34] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> veni
-[19:43:36] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> mira
-[19:43:43] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg
-[19:43:43] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to idk_n1gg]
-[19:43:54] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative+
-[19:43:56] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> GG
-[19:43:56] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
-[19:43:56] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
-[19:44:01] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> GG
-[19:44:14] [Server thread/INFO]: FreddyTurbina_ issued server command: /enchant FreddyTurbina_ minecraft:sharpness 100
-[19:44:14] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> perate
-[19:44:18] [Server thread/INFO]: FreddyTurbina_ issued server command: /enchant FreddyTurbina_ minecraft:sharpness 5
-[19:44:18] [Server thread/INFO]: [FreddyTurbina_: Applied enchantment Sharpness V to FreddyTurbina_'s item]
-[19:44:27] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
-[19:44:27] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
-[19:44:36] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ermano no me anda el audio del mc
-[19:45:10] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> q puede ser
-[19:45:21] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ermano
-[19:45:25] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> q
-[19:45:31] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ahi me anda
-[19:45:39] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:45:39] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> gg
-[19:45:47] [Server thread/INFO]: idk_n1gg issued server command: /pv
-[19:46:07] [Server thread/INFO]: idk_n1gg issued server command: /pv
-[19:46:24] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ya
-[19:46:29] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> hagamos el coso gg
-[19:46:38] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> me pongo en creativo?
-[19:46:38] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg FreddyTurbina_
-[19:46:38] [Server thread/INFO]: [FreddyTurbina_: Teleported idk_n1gg to FreddyTurbina_]
-[19:46:49] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> hermano no te pases de rosca
-[19:46:59] [Server thread/INFO]: idk_n1gg issued server command: /gamemode creative
-[19:46:59] [Server thread/INFO]: [idk_n1gg: Set own game mode to Creative Mode]
-[19:47:06] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ya
-[19:47:11] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> donde lo hacemos bb
-[19:47:36] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> ermano quedan 10 minutos
-[19:47:39] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> speed run
-[19:47:42] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> c
-[19:47:44] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> de cesar
-[19:47:46] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> albuco
-[19:48:00] [Server thread/INFO]: idk_n1gg issued server command: /pv
-[19:50:55] [User Authenticator #1/INFO]: UUID of player yoyi is c4be6604-6f77-3ce7-9870-653135468d67
-[19:50:56] [Server thread/INFO]: yoyi joined the game
-[19:50:56] [Server thread/INFO]: yoyi[/127.220.101.200:38909] logged in with entity id 3446 at ([world]1329.300000011921, -60.0, -437.349513472514)
-[19:53:23] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> GG
-[19:53:29] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> AJAJAJAJ
-[19:53:29] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> g
-[19:53:40] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> gg
-[19:53:48] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> yoyi
-[19:53:54] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> q
-[19:53:58] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> quieres ver el templo de cesar sanchez?
-[19:54:05] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> dale
-[19:54:12] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
-[19:54:12] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
-[19:54:21] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> que tal bro
-[19:54:30] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> ta bueno
-[19:55:10] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> y ahora como voy pa la aldea
-[19:55:16] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> yendo
-[19:55:30] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> pa onde
-[19:55:41] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> tirate y mira pa arriba
-[19:55:42] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> te llevo
-[19:55:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aleda
-[19:55:55] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> mostrale la parte de abajo
-[19:55:59] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> a si
-[19:56:04] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> tirate al agua
-[19:56:07] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> yoyi
-[19:56:11] [Async Chat Thread - #3/INFO]: [Not Secure] <yoyi> jajjajajaja
-[19:56:23] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> el nabo de facu
-[19:56:28] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> gg
-[19:56:32] [Async Chat Thread - #3/INFO]: [Not Secure] <yoyi> gg
-[19:56:39] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> oe dejame quedarme con los banners q tengo
-[19:56:40] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
-[19:56:40] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
-[19:56:47] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> yaya
-[19:56:50] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> GG
-[19:57:27] [Async Chat Thread - #3/INFO]: [Not Secure] <yoyi> t
-[19:57:38] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> mielda loco
-[19:57:40] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> viene el saez
-[19:57:55] [Server thread/INFO]: Villager EntityVillager['Fletcher'/416, uuid='57120bf2-aea2-49e9-9ffc-2bd344d0a27c', l='ServerLevel[world]', x=1431.59, y=63.00, z=-341.28, cpos=[89, -22], tl=391255, v=true] died, message: 'Fletcher was slain by Zombie'
-[19:58:40] [Server thread/INFO]: FreddyTurbina_ issued server command: //set air
-[19:58:48] [Server thread/INFO]: FreddyTurbina_ issued server command: //set air
-[19:59:18] [Server thread/INFO]: yoyi was slain by Zombie
-[19:59:21] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> gg
-[19:59:47] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> vro
-[19:59:51] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> q
-[19:59:53] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> ira lo q puse
-[19:59:58] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> GG
-[20:00:01] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> GG
+[20:11:01] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:11:05] [Server thread/WARN]: Legacy plugin PV v1.5 does not specify an api-version.
+[20:11:05] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[20:11:06] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[20:11:06] [Server thread/INFO]: [floodgate] Took 820ms to boot Floodgate
+[20:11:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[20:11:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[20:11:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:11:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:11:07] [Server thread/INFO]: [PV] Loading server plugin PV v1.5
+[20:11:07] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[20:11:07] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@591c3da1]
+[20:11:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.1-SNAPSHOT
+[20:11:08] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[20:11:08] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[20:11:08] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
+[20:11:08] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[20:11:08] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.2
+[20:11:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:11:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[20:11:08] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:11:08] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:11:08] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[20:11:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:11:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:11:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:11:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:11:10] [Server thread/INFO]: Preparing level "world"
+[20:11:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:11:11] [Server thread/INFO]: Time elapsed: 197 ms
+[20:11:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:11:11] [Server thread/INFO]: Time elapsed: 56 ms
+[20:11:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:11:12] [Server thread/INFO]: Time elapsed: 859 ms
+[20:11:12] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[20:11:12] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[20:11:12] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[20:11:12] [Server thread/INFO]: [PV] Enabling PV v1.5*
+[20:11:12] [Server thread/INFO]: PlayerVaults Have Been Enabled
+[20:11:12] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.1-SNAPSHOT
+[20:11:13] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
+[20:11:13] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[20:11:13] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
+[20:11:13] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[20:11:13] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[20:11:13] [Server thread/INFO]: [Images] Enabling Images v2.5.2
+[20:11:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:11:13] [Server thread/INFO]: [Geyser-Spigot] 
+[20:11:13] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.1-b726 (git-master-2019e53)
+[20:11:13] [Server thread/INFO]: [Geyser-Spigot] 
+[20:11:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:11:18] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1932
+[20:11:18] [Server thread/INFO]: [Geyser-Spigot] Done (4.631s)! Run /geyser help for help!
+[20:11:18] [Server thread/INFO]: Running delayed init tasks
+[20:11:18] [Server thread/INFO]: Done (20.340s)! For help, type "help"
+[20:11:18] [Server thread/INFO]: Timings Reset
+[20:11:18] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:11:18] [User Authenticator #0/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
+[20:11:18] [User Authenticator #1/INFO]: UUID of player yoyi is c4be6604-6f77-3ce7-9870-653135468d67
+[20:11:19] [Server thread/INFO]: yoyi joined the game
+[20:11:20] [Server thread/INFO]: yoyi[/127.220.101.200:47895] logged in with entity id 43 at ([world]1368.9410294979957, 68.3352811580602, -369.86884149275147)
+[20:11:20] [Server thread/INFO]: idk_n1gg joined the game
+[20:11:20] [Server thread/INFO]: idk_n1gg[/127.157.217.156:43431] logged in with entity id 31 at ([world]1525.1526267009658, 140.7902042519212, -141.89636714237588)
+[20:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
+[20:11:28] [Craft Scheduler Thread - 1 - Images/INFO]: [Images] Loaded 24 images...
+[20:11:36] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> bro respeta...
+[20:12:21] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RexGamer9003070
+[20:12:21] [localSession-7-2/INFO]: [Geyser-Spigot] RexGamer9003070 (logged in as: RexGamer9003070) has connected to the Java server
+[20:12:21] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RexGamer9003070 joined (UUID: 00000000-0000-0000-0009-01f233a6dec3)
+[20:12:21] [Server thread/INFO]: .RexGamer9003070 joined the game
+[20:12:21] [Server thread/INFO]: .RexGamer9003070[/127.0.0.1:0] logged in with entity id 3172 at ([world]23.5, 89.0, -40.5)
+[20:13:05] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username FusionBacon4084
+[20:13:05] [localSession-7-3/INFO]: [Geyser-Spigot] FusionBacon4084 (logged in as: FusionBacon4084) has connected to the Java server
+[20:13:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .FusionBacon4084 joined (UUID: 00000000-0000-0000-0009-01f74f3f1ab9)
+[20:13:05] [Server thread/INFO]: .FusionBacon4084 joined the game
+[20:13:05] [Server thread/INFO]: .FusionBacon4084[/127.0.0.1:0] logged in with entity id 3672 at ([world]24.445723, 89.0, -40.325565)
+[20:13:25] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> oe .FusionBacon4084
+[20:13:26] [Async Chat Thread - #1/INFO]: [Not Secure] <.FusionBacon4084> ya bro
+[20:13:28] [Async Chat Thread - #1/INFO]: [Not Secure] <.FusionBacon4084> se metio la cabra
+[20:13:31] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> y esa cuenta q vro
+[20:13:32] [Async Chat Thread - #1/INFO]: [Not Secure] <.FusionBacon4084> me meto desde java
+[20:13:35] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> gg
+[20:13:35] [Async Chat Thread - #1/INFO]: [Not Secure] <.FusionBacon4084> de bedrok pu
+[20:13:38] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> aa
+[20:13:39] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> gg
+[20:13:41] [localSession-7-3/INFO]: [Geyser-Spigot] FusionBacon4084 has disconnected from the Java server because of Bedrock client disconnected
+[20:13:41] [Server thread/INFO]: .FusionBacon4084 lost connection: Disconnected
+[20:13:41] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .FusionBacon4084 disconnected
+[20:13:41] [Server thread/INFO]: .FusionBacon4084 left the game
+[20:13:44] [User Authenticator #2/INFO]: UUID of player FreddyTurbina_ is e06f6f55-8e65-35ec-985f-b61c4660bc0a
+[20:13:45] [Server thread/INFO]: FreddyTurbina_ joined the game
+[20:13:45] [Server thread/INFO]: FreddyTurbina_[/127.68.20.86:57321] logged in with entity id 3961 at ([world]1526.6829683273388, 147.49313560223518, -137.86288361494837)
+[20:13:48] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> ya oe
+[20:13:51] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> lo llevamos al templo
+[20:14:03] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> pera
+[20:14:11] [Server thread/INFO]: idk_n1gg issued server command: /pv
+[20:14:12] [Async Chat Thread - #1/INFO]: [Not Secure] <yoyi> a mi no
+[20:14:40] [Server thread/INFO]: idk_n1gg issued server command: /msg FreddyTurbina_ hago el kit rapido?
+[20:14:46] [Server thread/INFO]: yoyi has made the advancement [The Parrots and the Bats]
+[20:14:51] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070
+[20:14:51] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to .RexGamer9003070]
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 10.178925,-2.752200000000002,-1.2041320000000013
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:00] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 9.896432999999998,-2.752200000000002,-1.1228710000000035
+[20:15:01] [Server thread/WARN]: .RexGamer9003070 moved wrongly!
+[20:15:14] [Server thread/INFO]: idk_n1gg issued server command: /tpa FreddyTurbina_
+[20:15:24] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070 FreddyTurbina_
+[20:15:24] [Server thread/INFO]: [FreddyTurbina_: Teleported .RexGamer9003070 to FreddyTurbina_]
+[20:15:24] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -26.900575437042836,-3.395857430208565,-36.25329062501713
+[20:15:24] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -26.900575437042836,-3.395857430208565,-36.25329062501713
+[20:15:24] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -26.900575437042836,-3.395857430208565,-36.25329062501713
+[20:15:24] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -26.900575437042836,-3.395857430208565,-36.25329062501713
+[20:15:34] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> acepta machuca de mrd ;v
+[20:15:37] [Server thread/INFO]: .RexGamer9003070 has made the advancement [Suit Up]
+[20:15:38] [Server thread/INFO]: FreddyTurbina_ issued server command: /spawn
+[20:15:40] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> pq
+[20:15:44] [Server thread/INFO]: idk_n1gg issued server command: /tpa FreddyTurbina_
+[20:15:48] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> acepta noma
+[20:15:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg
+[20:15:48] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to idk_n1gg]
+[20:16:16] [Server thread/INFO]: FreddyTurbina_ issued server command: /images delete
+[20:16:26] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu6.jpg 100 100
+[20:16:39] [Server thread/INFO]: FreddyTurbina_ issued server command: /images delete
+[20:16:44] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> idk_n1gg
+[20:16:46] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> lo tepeo bro?
+[20:16:51] [Server thread/INFO]: idk_n1gg issued server command: /msg FreddyTurbina_ ira la shulker
+[20:16:56] [Server thread/INFO]: FreddyTurbina_ issued server command: /images create facu6.jpg 50 50
+[20:16:58] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> todavia no
+[20:17:05] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> q
+[20:17:10] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> gg
+[20:17:14] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> ya
+[20:17:14] [Server thread/INFO]: FreddyTurbina_ issued server command: /spawn
+[20:17:16] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> lo tepeo
+[20:17:17] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> o no
+[20:17:18] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> kit gg
+[20:17:24] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> si o no
+[20:17:27] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> JAJAJA
+[20:17:28] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> ns
+[20:17:30] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> ya bro
+[20:17:34] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> pregunale al francisco
+[20:17:35] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070 FreddyTurbina_
+[20:17:35] [Server thread/INFO]: [FreddyTurbina_: Teleported .RexGamer9003070 to FreddyTurbina_]
+[20:17:35] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1528.6978735811504,44.0,-122.07702321288943
+[20:17:41] [User Authenticator #3/INFO]: UUID of player esotilinuru is 75f1b7e9-8d34-3c93-a63b-3d12fd5336ba
+[20:17:41] [Server thread/INFO]: esotilinuru joined the game
+[20:17:41] [Server thread/INFO]: esotilinuru[/127.164.100.192:38813] logged in with entity id 12226 at ([world]1421.7686320558093, 192.0, -386.94865506452413)
+[20:17:43] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> ya lo tepie
+[20:17:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[20:17:48] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[20:18:21] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> GG
+[20:18:29] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> alonso mira tu kit
+[20:18:40] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> saez
+[20:18:59] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> .RexGamer9003070
+[20:19:03] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> mira el kit
+[20:19:46] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> ese es el op
+[20:19:50] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> JAJAJAAJ
+[20:20:22] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> GG
+[20:20:23] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> GG
+[20:20:25] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> perate
