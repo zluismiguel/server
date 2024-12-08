@@ -755,3 +755,30 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:30:52] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
 [21:30:56] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
 [21:30:56] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:35:10] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:35:10] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:35:41] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:35:41] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:36:14] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.35787311450474135
+[21:36:14] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.47021781706433785
+[21:36:14] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.5396890425724337
+[21:36:14] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.5634767497244297
+[21:36:21] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.2916962990688603
+[21:36:21] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.4352075025483373
+[21:36:21] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.4923721002547268
+[21:36:21] [Server thread/WARN]: Horse (vehicle of esotilinuru) moved wrongly! 0.5052968898425547
+[21:38:18] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:38:18] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:39:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:39:48] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:40:23] [Server thread/WARN]: Horse (vehicle of FreddyTurbina_) moved wrongly! 0.3052949411485315
+[21:40:23] [Server thread/WARN]: Horse (vehicle of FreddyTurbina_) moved wrongly! 0.5834963008046543
+[21:40:24] [Server thread/WARN]: Horse (vehicle of FreddyTurbina_) moved wrongly! 0.8255382862143961
+[21:40:24] [Server thread/WARN]: Horse (vehicle of FreddyTurbina_) moved wrongly! 0.9643683255517317
+[21:40:24] [Server thread/WARN]: Horse (vehicle of FreddyTurbina_) moved wrongly! 1.1107033739581311
+[21:40:54] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[21:40:54] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[21:41:16] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:41:16] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:41:51] [Server thread/INFO]: FreddyTurbina_ issued server command: /weather clear
+[21:41:51] [Server thread/INFO]: [FreddyTurbina_: Set the weather to clear]
