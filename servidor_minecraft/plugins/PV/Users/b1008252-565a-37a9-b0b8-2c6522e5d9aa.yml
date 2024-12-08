@@ -599,89 +599,10 @@ pv1:
     - ==: Pattern
       color: BLACK
       pattern: hh
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: WHITE_BANNER
-  amount: 16
-  meta:
-    ==: ItemMeta
-    meta-type: BANNER
-    patterns:
-    - ==: Pattern
-      color: BLACK
-      pattern: ls
-    - ==: Pattern
-      color: BLACK
-      pattern: drs
-    - ==: Pattern
-      color: BLACK
-      pattern: rs
-    - ==: Pattern
-      color: WHITE
-      pattern: bo
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: WHITE_BANNER
-  amount: 16
-  meta:
-    ==: ItemMeta
-    meta-type: BANNER
-    patterns:
-    - ==: Pattern
-      color: BLACK
-      pattern: cs
-    - ==: Pattern
-      color: WHITE
-      pattern: bo
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: WHITE_BANNER
-  amount: 16
-  meta:
-    ==: ItemMeta
-    meta-type: BANNER
-    patterns:
-    - ==: Pattern
-      color: BLACK
-      pattern: rs
-    - ==: Pattern
-      color: WHITE
-      pattern: hh
-    - ==: Pattern
-      color: BLACK
-      pattern: ts
-    - ==: Pattern
-      color: BLACK
-      pattern: ls
-    - ==: Pattern
-      color: BLACK
-      pattern: bs
-    - ==: Pattern
-      color: WHITE
-      pattern: bo
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: WHITE_BANNER
-  amount: 16
-  meta:
-    ==: ItemMeta
-    meta-type: BANNER
-    patterns:
-    - ==: Pattern
-      color: BLACK
-      pattern: rs
-    - ==: Pattern
-      color: BLACK
-      pattern: ls
-    - ==: Pattern
-      color: BLACK
-      pattern: ms
-    - ==: Pattern
-      color: BLACK
-      pattern: ts
-    - ==: Pattern
-      color: WHITE
-      pattern: bo
+- null
+- null
+- null
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: WHITE_BANNER
@@ -716,32 +637,7 @@ pv1:
     - ==: Pattern
       color: WHITE
       pattern: bo
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: WHITE_BANNER
-  amount: 16
-  meta:
-    ==: ItemMeta
-    meta-type: BANNER
-    patterns:
-    - ==: Pattern
-      color: BLACK
-      pattern: rs
-    - ==: Pattern
-      color: WHITE
-      pattern: hh
-    - ==: Pattern
-      color: BLACK
-      pattern: ts
-    - ==: Pattern
-      color: BLACK
-      pattern: ls
-    - ==: Pattern
-      color: BLACK
-      pattern: bs
-    - ==: Pattern
-      color: WHITE
-      pattern: bo
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: BLACK_SHULKER_BOX
@@ -889,9 +785,7 @@ pv2:
   v: 3700
   type: COBBLESTONE
   amount: 64
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: TOTEM_OF_UNDYING
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: SPRUCE_PLANKS
@@ -947,10 +841,7 @@ pv2:
   v: 3700
   type: MUTTON
   amount: 5
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: BREAD
-  amount: 5
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: LIGHT_GRAY_WOOL
@@ -1039,78 +930,17 @@ pv2:
   v: 3700
   type: OAK_LOG
   amount: 49
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_AXE
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    Damage: 47
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: WATER_BUCKET
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_SHOVEL
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    Damage: 97
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: BOW
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    Damage: 16
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_PICKAXE
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    enchants:
-      DIG_SPEED: 4
-      LOOT_BONUS_BLOCKS: 3
-      MENDING: 1
-    repair-cost: 7
-    Damage: 28
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_SWORD
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    Damage: 476
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_CHESTPLATE
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 165
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_LEGGINGS
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 165
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_HELMET
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 165
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: TORCH
   amount: 38
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: DIAMOND_BOOTS
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 165
+- null

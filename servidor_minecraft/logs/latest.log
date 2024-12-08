@@ -193,3 +193,315 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:20:22] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> GG
 [20:20:23] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> GG
 [20:20:25] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> perate
+[20:20:55] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> la tierra santa bro
+[20:20:57] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> gg
+[20:21:06] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> de cesar sanchez
+[20:21:08] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> hermano facusalen
+[20:21:52] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> facugolimpo
+[20:21:53] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070 FreddyTurbina_
+[20:21:53] [Server thread/INFO]: [FreddyTurbina_: Teleported .RexGamer9003070 to FreddyTurbina_]
+[20:21:53] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 0.0014134086168269278,-26.0,15.955732398065635
+[20:21:53] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 0.0014134086168269278,-26.0,15.955732398065635
+[20:21:53] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 0.0014134086168269278,-26.0,15.955732398065635
+[20:21:58] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[20:21:58] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[20:21:59] [Server thread/INFO]: esotilinuru fell from a high place
+[20:22:02] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[20:22:02] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[20:22:03] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> JAJAJAA
+[20:22:16] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[20:22:16] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[20:22:19] [Async Chat Thread - #1/INFO]: [Not Secure] <FreddyTurbina_> el olimpo bro
+[20:22:34] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> XD
+[20:23:03] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[20:23:03] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[20:23:04] [localSession-7-2/INFO]: [Geyser-Spigot] RexGamer9003070 has disconnected from the Java server because of Bedrock client timed out
+[20:23:04] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RexGamer9003070 disconnected
+[20:23:04] [Server thread/INFO]: .RexGamer9003070 lost connection: Disconnected
+[20:23:04] [Server thread/INFO]: .RexGamer9003070 left the game
+[20:23:08] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> JAJJAAJ
+[20:23:20] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> le cortaron la luz
+[20:23:45] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RexGamer9003070
+[20:23:45] [localSession-7-4/INFO]: [Geyser-Spigot] RexGamer9003070 (logged in as: RexGamer9003070) has connected to the Java server
+[20:23:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RexGamer9003070 joined (UUID: 00000000-0000-0000-0009-01f233a6dec3)
+[20:23:45] [Server thread/INFO]: .RexGamer9003070 joined the game
+[20:23:45] [Server thread/INFO]: .RexGamer9003070[/127.0.0.1:0] logged in with entity id 16888 at ([world]1527.3303, 113.0, -138.65771)
+[20:23:57] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> machuca mira dc
+[20:24:04] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RexGamer9003070 disconnected
+[20:24:04] [localSession-7-4/INFO]: [Geyser-Spigot] RexGamer9003070 has disconnected from the Java server because of Bedrock client timed out
+[20:24:04] [Server thread/INFO]: .RexGamer9003070 lost connection: Disconnected
+[20:24:04] [Server thread/INFO]: .RexGamer9003070 left the game
+[20:24:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username FusionBacon4084
+[20:24:17] [localSession-7-1/INFO]: [Geyser-Spigot] FusionBacon4084 (logged in as: FusionBacon4084) has connected to the Java server
+[20:24:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .FusionBacon4084 joined (UUID: 00000000-0000-0000-0009-01f74f3f1ab9)
+[20:24:18] [Server thread/INFO]: .FusionBacon4084 joined the game
+[20:24:18] [Server thread/INFO]: .FusionBacon4084[/127.0.0.1:0] logged in with entity id 18415 at ([world]27.300001, 80.0, -77.08092)
+[20:24:31] [Async Chat Thread - #1/INFO]: [Not Secure] <idk_n1gg> machuca ira el dc
+[20:24:34] [Async Chat Thread - #1/INFO]: [Not Secure] <.FusionBacon4084> bro creo que al saez se le fue la net
+[20:24:36] [localSession-7-1/INFO]: [Geyser-Spigot] FusionBacon4084 has disconnected from the Java server because of Bedrock client disconnected
+[20:24:36] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .FusionBacon4084 disconnected
+[20:24:36] [Server thread/INFO]: .FusionBacon4084 lost connection: Disconnected
+[20:24:36] [Server thread/INFO]: .FusionBacon4084 left the game
+[20:24:39] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RexGamer9003070
+[20:24:39] [localSession-7-2/INFO]: [Geyser-Spigot] RexGamer9003070 (logged in as: RexGamer9003070) has connected to the Java server
+[20:24:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RexGamer9003070 joined (UUID: 00000000-0000-0000-0009-01f233a6dec3)
+[20:24:39] [Server thread/INFO]: .RexGamer9003070 joined the game
+[20:24:39] [Server thread/INFO]: .RexGamer9003070[/127.0.0.1:0] logged in with entity id 18695 at ([world]1527.3303, 113.0, -138.65771)
+[20:24:59] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070 FreddyTurbina_
+[20:24:59] [Server thread/INFO]: [FreddyTurbina_: Teleported .RexGamer9003070 to FreddyTurbina_]
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:24:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! -74.14745874575101,-49.0,-187.15969022126922
+[20:25:14] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[20:25:14] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[20:25:38] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> chamusca onde tai
+[20:25:42] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> en mi base
+[20:25:47] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> tepea
+[20:25:49] [Server thread/INFO]: .RexGamer9003070 was slain by esotilinuru
+[20:25:53] [Server thread/INFO]: idk_n1gg issued server command: /tpa FreddyTurbina_
+[20:25:56] [Async Chat Thread - #4/INFO]: [Not Secure] <FreddyTurbina_> pq
+[20:25:57] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> osea acepta
+[20:25:58] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> gg
+[20:26:04] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[20:26:04] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[20:26:05] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> q estoy en el templo
+[20:26:07] [Server thread/INFO]: FreddyTurbina_ issued server command: /tpaccept
+[20:26:18] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp idk_n1gg FreddyTurbina_
+[20:26:18] [Server thread/INFO]: [FreddyTurbina_: Teleported idk_n1gg to FreddyTurbina_]
+[20:26:21] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> gg
+[20:26:23] [Server thread/INFO]: FreddyTurbina_ issued server command: /home
+[20:26:28] [Server thread/INFO]: esotilinuru issued server command: /sethome godin
+[20:26:33] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[20:26:33] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[20:26:39] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> q
+[20:26:46] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> arriba de la tuya
+[20:26:50] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> en esa foto del facundo
+[20:26:55] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> valeri
+[20:26:56] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> no
+[20:26:58] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> a cuanto el libro efi 5
+[20:27:06] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> gg
+[20:27:12] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> a 30
+[20:27:16] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> ya
+[20:27:24] [Server thread/INFO]: FreddyTurbina_ issued server command: /pv 1
+[20:27:29] [Server thread/INFO]: idk_n1gg issued server command: /gamemode survival
+[20:27:29] [Server thread/INFO]: [idk_n1gg: Set own game mode to Survival Mode]
+[20:27:34] [Server thread/INFO]: idk_n1gg issued server command: /pv
+[20:27:52] [Server thread/INFO]: idk_n1gg issued server command: /pv
+[20:27:52] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070
+[20:27:52] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to .RexGamer9003070]
+[20:27:59] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070 esotilinuru
+[20:27:59] [Server thread/INFO]: [FreddyTurbina_: Teleported .RexGamer9003070 to esotilinuru]
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:27:59] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1437.5982077805927,-10.0,-342.3703913480648
+[20:28:02] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[20:28:11] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> perate
+[20:28:12] [Server thread/INFO]: idk_n1gg lost connection: Disconnected
+[20:28:12] [Server thread/INFO]: idk_n1gg left the game
+[20:28:25] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[20:28:25] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[20:28:34] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[20:28:34] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[20:28:37] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[20:28:37] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[20:28:37] [Server thread/WARN]: .RexGamer9003070 moved wrongly!
+[20:28:47] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> ven
+[20:29:00] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> vro
+[20:29:11] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aldea
+[20:29:24] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> saes
+[20:29:29] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> vem
+[20:29:54] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> esta es tu casa
+[20:29:58] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> es tu terreno
+[20:30:05] [User Authenticator #4/INFO]: UUID of player idk_n1gg is b1008252-565a-37a9-b0b8-2c6522e5d9aa
+[20:30:06] [Server thread/INFO]: idk_n1gg joined the game
+[20:30:06] [Server thread/INFO]: idk_n1gg[/127.157.217.156:55975] logged in with entity id 23815 at ([world]1430.2723994342928, 83.0, -386.25508073706675)
+[20:30:11] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> oe valeri
+[20:30:15] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> me voy a tener q ir despues
+[20:30:16] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> me voy a hacer el yate
+[20:30:16] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> q
+[20:30:19] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> q yate
+[20:30:21] [Server thread/INFO]: .RexGamer9003070 was slain by esotilinuru
+[20:30:22] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> del miausculos vro
+[20:30:26] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> bruh
+[20:30:28] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> ya
+[20:30:29] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp .RexGamer9003070 esotilinuru
+[20:30:29] [Server thread/INFO]: [FreddyTurbina_: Teleported .RexGamer9003070 to esotilinuru]
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Server thread/WARN]: .RexGamer9003070 moved too quickly! 1416.199999988079,-19.099999999999994,-350.84170842883674
+[20:30:29] [Async Chat Thread - #5/INFO]: [Not Secure] <esotilinuru> gg
+[20:30:36] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> y ahi voy a vivir
