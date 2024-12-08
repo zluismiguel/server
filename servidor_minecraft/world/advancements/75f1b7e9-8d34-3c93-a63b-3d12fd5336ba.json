@@ -26,6 +26,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-05 18:20:04 +0000",
       "minecraft:flower_forest": "2024-12-05 19:10:33 +0000",
       "minecraft:beach": "2024-12-05 18:00:19 +0000",
+      "minecraft:dark_forest": "2024-12-08 21:52:20 +0000",
       "minecraft:sparse_jungle": "2024-12-06 20:59:21 +0000",
       "minecraft:river": "2024-12-05 17:57:21 +0000",
       "minecraft:lukewarm_ocean": "2024-12-05 18:13:31 +0000",
@@ -1877,39 +1878,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-08 20:47:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-08 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2024-12-08 20:50:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-08 20:50:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 20:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-08 20:50:16 +0000"
     },
     "done": true
   },
@@ -1919,9 +1890,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "slept_in_bed": "2024-12-08 20:52:22 +0000"
+      "has_porkchop": "2024-12-08 20:47:10 +0000"
     },
     "done": true
   },
@@ -1934,6 +1905,42 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-08 20:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-08 20:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-08 20:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-08 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-08 21:52:30 +0000"
     },
     "done": true
   },
