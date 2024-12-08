@@ -137,3 +137,50 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:47:44] [Async Chat Thread - #0/INFO]: [Not Secure] <FreddyTurbina_> de cesar
 [19:47:46] [Async Chat Thread - #0/INFO]: [Not Secure] <idk_n1gg> albuco
 [19:48:00] [Server thread/INFO]: idk_n1gg issued server command: /pv
+[19:50:55] [User Authenticator #1/INFO]: UUID of player yoyi is c4be6604-6f77-3ce7-9870-653135468d67
+[19:50:56] [Server thread/INFO]: yoyi joined the game
+[19:50:56] [Server thread/INFO]: yoyi[/127.220.101.200:38909] logged in with entity id 3446 at ([world]1329.300000011921, -60.0, -437.349513472514)
+[19:53:23] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> GG
+[19:53:29] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> AJAJAJAJ
+[19:53:29] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> g
+[19:53:40] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> gg
+[19:53:48] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> yoyi
+[19:53:54] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> q
+[19:53:58] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> quieres ver el templo de cesar sanchez?
+[19:54:05] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> dale
+[19:54:12] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
+[19:54:12] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
+[19:54:21] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> que tal bro
+[19:54:30] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> ta bueno
+[19:55:10] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> y ahora como voy pa la aldea
+[19:55:16] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> yendo
+[19:55:30] [Async Chat Thread - #2/INFO]: [Not Secure] <yoyi> pa onde
+[19:55:41] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> tirate y mira pa arriba
+[19:55:42] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> te llevo
+[19:55:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /home aleda
+[19:55:55] [Async Chat Thread - #2/INFO]: [Not Secure] <idk_n1gg> mostrale la parte de abajo
+[19:55:59] [Async Chat Thread - #2/INFO]: [Not Secure] <FreddyTurbina_> a si
+[19:56:04] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> tirate al agua
+[19:56:07] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> yoyi
+[19:56:11] [Async Chat Thread - #3/INFO]: [Not Secure] <yoyi> jajjajajaja
+[19:56:23] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> el nabo de facu
+[19:56:28] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> gg
+[19:56:32] [Async Chat Thread - #3/INFO]: [Not Secure] <yoyi> gg
+[19:56:39] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> oe dejame quedarme con los banners q tengo
+[19:56:40] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp yoyi FreddyTurbina_
+[19:56:40] [Server thread/INFO]: [FreddyTurbina_: Teleported yoyi to FreddyTurbina_]
+[19:56:47] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> yaya
+[19:56:50] [Async Chat Thread - #3/INFO]: [Not Secure] <idk_n1gg> GG
+[19:57:27] [Async Chat Thread - #3/INFO]: [Not Secure] <yoyi> t
+[19:57:38] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> mielda loco
+[19:57:40] [Async Chat Thread - #3/INFO]: [Not Secure] <FreddyTurbina_> viene el saez
+[19:57:55] [Server thread/INFO]: Villager EntityVillager['Fletcher'/416, uuid='57120bf2-aea2-49e9-9ffc-2bd344d0a27c', l='ServerLevel[world]', x=1431.59, y=63.00, z=-341.28, cpos=[89, -22], tl=391255, v=true] died, message: 'Fletcher was slain by Zombie'
+[19:58:40] [Server thread/INFO]: FreddyTurbina_ issued server command: //set air
+[19:58:48] [Server thread/INFO]: FreddyTurbina_ issued server command: //set air
+[19:59:18] [Server thread/INFO]: yoyi was slain by Zombie
+[19:59:21] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> gg
+[19:59:47] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> vro
+[19:59:51] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> q
+[19:59:53] [Async Chat Thread - #5/INFO]: [Not Secure] <idk_n1gg> ira lo q puse
+[19:59:58] [Async Chat Thread - #5/INFO]: [Not Secure] <FreddyTurbina_> GG
+[20:00:01] [Async Chat Thread - #4/INFO]: [Not Secure] <idk_n1gg> GG
