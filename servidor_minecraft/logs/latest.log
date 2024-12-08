@@ -713,3 +713,20 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:01:00] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
 [21:01:10] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
 [21:01:10] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[21:02:55] [Server thread/INFO]: esotilinuru has made the advancement [Best Friends Forever]
+[21:03:56] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[21:03:56] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[21:04:01] [Server thread/INFO]: Villager EntityVillager['Villager'/42547, uuid='84558054-b8aa-4fac-9ba4-1c323c701c51', l='ServerLevel[world]', x=1836.70, y=46.05, z=-1054.70, cpos=[114, -66], tl=14379, v=true] died, message: 'Villager was slain by Zombie'
+[21:04:02] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[21:04:02] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[21:04:19] [Async Chat Thread - #12/INFO]: [Not Secure] <FreddyTurbina_> ya tengo el mapa gg
+[21:04:34] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru
+[21:04:34] [Server thread/INFO]: [FreddyTurbina_: Teleported FreddyTurbina_ to esotilinuru]
+[21:07:57] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[21:07:57] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[21:08:15] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:08:15] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:10:21] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:10:21] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:10:33] [Server thread/INFO]: FreddyTurbina_ issued server command: /locate structure minecraft:mansion
+[21:10:34] [Server thread/INFO]: Locating element minecraft:mansion took 274 ms
