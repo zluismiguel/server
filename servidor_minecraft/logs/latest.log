@@ -741,3 +741,17 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:19:31] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
 [21:20:45] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
 [21:20:45] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:26:50] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:26:50] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:27:21] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode creative
+[21:27:21] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Creative Mode]
+[21:28:10] [Server thread/INFO]: FreddyTurbina_ issued server command: /gamemode survival
+[21:28:10] [Server thread/INFO]: [FreddyTurbina_: Set own game mode to Survival Mode]
+[21:28:51] [Server thread/INFO]: FreddyTurbina_ has made the advancement [Best Friends Forever]
+[21:29:37] [Server thread/INFO]: esotilinuru was slain by Spider
+[21:29:48] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:29:48] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:30:52] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[21:30:52] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[21:30:56] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:30:56] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
