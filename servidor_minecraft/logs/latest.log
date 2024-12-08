@@ -458,3 +458,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [22:57:26] [Async Chat Thread - #32/INFO]: [Not Secure] <idk_n1gg> gg
 [22:57:28] [Server thread/INFO]: idk_n1gg lost connection: Disconnected
 [22:57:28] [Server thread/INFO]: idk_n1gg left the game
+[23:15:08] [Server thread/INFO]: esotilinuru lost connection: Disconnected
+[23:15:08] [Server thread/INFO]: esotilinuru left the game
