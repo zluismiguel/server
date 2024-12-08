@@ -808,12 +808,11 @@ pv2:
   meta:
     ==: ItemMeta
     meta-type: TILE_ENTITY
-    internal: H4sIAAAAAAAA/43STVODMBAG4KV82KJWqq0X/4knx4+DZ70zgayQYUmYEEb778WJAcYcbM7Pu3lnkxQghe0jqbJ5kUaY4zur1rASHA6tkFhq9mHu+3qgBnVeqK8NxK8G2z4FgCyA6I2UARvYzQHFmpxUFUD8pAZpEviVgZV3syxVURDynCN2PTGDLrN2mZXN7Bd1SLSYF4zI4cDh0Med4GN1PE6TY4cji7czLpScWORYbNnNzKpBdupzHOvZxNpscb/RQk6bOHNwY+HtYqgijjJnXUd+h3PLrxZVNTLu3INzFye6S69nybQeH+gvzLyBRumy9tzOc71ZLHNy1ye6/X9/apIHf+W1QOIphIZVISTPrGUVws+Z/wvAN4RQyHT6AgAA
+    internal: H4sIAAAAAAAA/43Sy1KDMBQG4EO52KJWqq0b38SV42XhWvdMIEfIcEiYEEb79mJjgKHTmWbL9/85JIkBYlg/k8qrN2mE2X+yYgkLwWFXC4m5Zl/msS07qlCnmfpZQfhusG5jAEg8CD5IGfAgfFGdNJFNbsakYlVKqoB/6Tm5tPJhlLnKMkKecsSmJWbQZRYu49nMdjIXiRrTjBE57DscHuNG8P4fcD80Bw4HFq9HnCk5sHDG7kZWdLJR332ts5GzF9Ymk/2NFnI4idWs9H5SqoijTFnT0DDDpeNPlt9MRtXIuHNXZ7rrmZvMmTOtD3d6gMnpQqN0Xjq3Oe1aMznM2zPdduZOv6nd8D5i8A0rfIheWc0KhL91fA2lQOL9l1/r6Yh8+gIAAA==
     blockMaterial: GRAY_SHULKER_BOX
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
-  type: OAK_PLANKS
-  amount: 6
+  type: LIGHT_GRAY_WOOL
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: COBBLESTONE
@@ -842,9 +841,7 @@ pv2:
   type: MUTTON
   amount: 5
 - null
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: LIGHT_GRAY_WOOL
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: WHEAT_SEEDS
@@ -939,8 +936,5 @@ pv2:
 - null
 - null
 - null
-- ==: org.bukkit.inventory.ItemStack
-  v: 3700
-  type: TORCH
-  amount: 38
+- null
 - null
