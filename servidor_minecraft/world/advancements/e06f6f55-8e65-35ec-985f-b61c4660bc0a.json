@@ -7,10 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-08 21:10:18 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-06 21:35:03 +0000",
       "minecraft:forest": "2024-12-05 17:47:06 +0000",
       "minecraft:taiga": "2024-12-05 18:01:56 +0000",
       "minecraft:deep_ocean": "2024-12-05 18:21:28 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-08 21:10:46 +0000",
       "minecraft:desert": "2024-12-05 18:29:41 +0000",
       "minecraft:ocean": "2024-12-05 17:52:57 +0000",
       "minecraft:sunflower_plains": "2024-12-05 18:38:15 +0000",
@@ -2275,15 +2277,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-08 21:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-08 21:01:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-08 21:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-08 21:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-08 21:13:39 +0000"
     },
     "done": true
   },

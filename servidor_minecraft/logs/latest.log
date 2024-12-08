@@ -730,3 +730,14 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:10:21] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
 [21:10:33] [Server thread/INFO]: FreddyTurbina_ issued server command: /locate structure minecraft:mansion
 [21:10:34] [Server thread/INFO]: Locating element minecraft:mansion took 274 ms
+[21:16:01] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:16:01] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:16:42] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:16:42] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:18:29] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set dya
+[21:18:31] [Server thread/INFO]: FreddyTurbina_ issued server command: /time set day
+[21:18:31] [Server thread/INFO]: [FreddyTurbina_: Set the time to 1000]
+[21:19:31] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:19:31] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
+[21:20:45] [Server thread/INFO]: FreddyTurbina_ issued server command: /tp esotilinuru FreddyTurbina_
+[21:20:45] [Server thread/INFO]: [FreddyTurbina_: Teleported esotilinuru to FreddyTurbina_]
