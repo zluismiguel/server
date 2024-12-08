@@ -808,7 +808,7 @@ pv2:
   meta:
     ==: ItemMeta
     meta-type: TILE_ENTITY
-    internal: H4sIAAAAAAAA/43Sy1KDMBQG4EO52KJWqq0b38SV42XhWvdMIEfIcEiYEEb79mJjgKHTmWbL9/85JIkBYlg/k8qrN2mE2X+yYgkLwWFXC4m5Zl/msS07qlCnmfpZQfhusG5jAEg8CD5IGfAgfFGdNJFNbsakYlVKqoB/6Tm5tPJhlLnKMkKecsSmJWbQZRYu49nMdjIXiRrTjBE57DscHuNG8P4fcD80Bw4HFq9HnCk5sHDG7kZWdLJR332ts5GzF9Ymk/2NFnI4idWs9H5SqoijTFnT0DDDpeNPlt9MRtXIuHNXZ7rrmZvMmTOtD3d6gMnpQqN0Xjq3Oe1aMznM2zPdduZOv6nd8D5i8A0rfIheWc0KhL91fA2lQOL9l1/r6Yh8+gIAAA==
+    internal: H4sIAAAAAAAA/43Sy1KDMBQG4EO52KJWqq0b38SV42Xhuu6ZQI6Q4ZAwIYz27cViIIPTmWb9/X9OLjFADOtnUnn1Jo0whw9WLGEhOOxqITHX7NM8tmVHFeo0U98rCN8N1m0MAIkHwZ6UAQ/CF9VJEw3JzZRUrEpJFfAnPSuXg3yYZK6yjJCnHLFpiRm0mYXNeENm68xFosY0Y0QW+xaH/3EjeH8GPIzNgcXBgNcTzpQcWThjdxMrOtmor77W2sjai8Emzv5GCznexGpWeu+UKuIoU9Y0NM5wafnTwG+cUTUybt3Vme565pw5c6b18U2PMDldaJTOS+s2p11rnMu8PdNtZ+70n9rF4BtW+BC9spoVCL9r9mfcZygFEu/JDxX+EJn6AgAA
     blockMaterial: GRAY_SHULKER_BOX
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
@@ -926,7 +926,7 @@ pv2:
 - ==: org.bukkit.inventory.ItemStack
   v: 3700
   type: OAK_LOG
-  amount: 49
+  amount: 47
 - null
 - null
 - null
