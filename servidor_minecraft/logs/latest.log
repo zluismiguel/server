@@ -98,3 +98,16 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:02:30] [Server thread/INFO]: [idk_n1gg: Set own game mode to Survival Mode]
 [20:03:10] [Server thread/INFO]: idk_n1gg issued server command: /time set day
 [20:03:10] [Server thread/INFO]: [idk_n1gg: Set the time to 1000]
+[20:04:27] [Server thread/INFO]: idk_n1gg issued server command: /gamemode spectator
+[20:04:27] [Server thread/INFO]: [idk_n1gg: Set own game mode to Spectator Mode]
+[20:04:36] [Server thread/INFO]: idk_n1gg issued server command: /locate structure minecraft:village_plains
+[20:04:36] [Server thread/INFO]: Locating element minecraft:village_plains took 11 ms
+[20:04:39] [Server thread/INFO]: idk_n1gg issued server command: /tp @s -304 ~ -1056
+[20:04:39] [Server thread/INFO]: [idk_n1gg: Teleported idk_n1gg to -303.500000, 81.000000, -1055.500000]
+[20:05:06] [Server thread/INFO]: idk_n1gg issued server command: /tp 10100000 50 10000000
+[20:05:06] [Server thread/INFO]: [idk_n1gg: Teleported idk_n1gg to 10100000.500000, 50.000000, 10000000.500000]
+[20:05:34] [Server thread/INFO]: idk_n1gg issued server command: /gamemode survival
+[20:05:34] [Server thread/INFO]: [idk_n1gg: Set own game mode to Survival Mode]
+[20:06:56] [Server thread/INFO]: idk_n1gg has made the advancement [Voluntary Exile]
+[20:13:43] [Server thread/INFO]: idk_n1gg issued server command: /image create facu6.jpg 25
+[20:13:59] [Server thread/INFO]: idk_n1gg issued server command: /image create facu6.jpg 25
